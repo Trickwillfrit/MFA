@@ -1,0 +1,192 @@
+Country,Code,Year,Technology,Capacity_GW,Data_Status,Scenario
+Austria,AUT,2000,Solar PV,0.005,Observed,IRENA historical
+Austria,AUT,2001,Solar PV,0.007,Observed,IRENA historical
+Austria,AUT,2002,Solar PV,0.009,Observed,IRENA historical
+Austria,AUT,2003,Solar PV,0.023,Observed,IRENA historical
+Austria,AUT,2004,Solar PV,0.027,Observed,IRENA historical
+Austria,AUT,2005,Solar PV,0.021018,Observed,IRENA historical
+Austria,AUT,2006,Solar PV,0.022387002,Observed,IRENA historical
+Austria,AUT,2007,Solar PV,0.024238002,Observed,IRENA historical
+Austria,AUT,2008,Solar PV,0.030119998,Observed,IRENA historical
+Austria,AUT,2009,Solar PV,0.048915002,Observed,IRENA historical
+Austria,AUT,2010,Solar PV,0.08881301,Observed,IRENA historical
+Austria,AUT,2011,Solar PV,0.17406999,Observed,IRENA historical
+Austria,AUT,2012,Solar PV,0.337483,Observed,IRENA historical
+Austria,AUT,2013,Solar PV,0.625974,Observed,IRENA historical
+Austria,AUT,2014,Solar PV,0.785246,Observed,IRENA historical
+Austria,AUT,2015,Solar PV,0.937098,Observed,IRENA historical
+Austria,AUT,2016,Solar PV,1.096016,Observed,IRENA historical
+Austria,AUT,2017,Solar PV,1.2689711,Observed,IRENA historical
+Austria,AUT,2018,Solar PV,1.455132,Observed,IRENA historical
+Austria,AUT,2019,Solar PV,1.702093,Observed,IRENA historical
+Austria,AUT,2020,Solar PV,2.042934,Observed,IRENA historical
+Austria,AUT,2021,Solar PV,2.782602,Observed,IRENA historical
+Austria,AUT,2022,Solar PV,3.7917042,Observed,IRENA historical
+Austria,AUT,2023,Solar PV,6.3856144,Observed,IRENA historical
+Austria,AUT,2024,Solar PV,8.895074,Observed,IRENA historical
+Austria,AUT,2025,Solar PV,10.295074,Observed,IRENA historical
+Austria,AUT,2026,Solar PV,12.2360592,Modelled,Transition Scenario 2026
+Austria,AUT,2027,Solar PV,14.1770444,Modelled,Transition Scenario 2026
+Austria,AUT,2028,Solar PV,16.1180296,Modelled,Transition Scenario 2026
+Austria,AUT,2029,Solar PV,18.0590148,Modelled,Transition Scenario 2026
+Austria,AUT,2030,Solar PV,20.0,Modelled,Transition Scenario 2026
+Austria,AUT,2031,Solar PV,21.9,Modelled,Transition Scenario 2026
+Austria,AUT,2032,Solar PV,23.8,Modelled,Transition Scenario 2026
+Austria,AUT,2033,Solar PV,25.7,Modelled,Transition Scenario 2026
+Austria,AUT,2034,Solar PV,27.6,Modelled,Transition Scenario 2026
+Austria,AUT,2035,Solar PV,29.5,Modelled,Transition Scenario 2026
+Austria,AUT,2036,Solar PV,31.4,Modelled,Transition Scenario 2026
+Austria,AUT,2037,Solar PV,33.3,Modelled,Transition Scenario 2026
+Austria,AUT,2038,Solar PV,35.2,Modelled,Transition Scenario 2026
+Austria,AUT,2039,Solar PV,37.099999999999994,Modelled,Transition Scenario 2026
+Austria,AUT,2040,Solar PV,39.0,Modelled,Transition Scenario 2026
+Austria,AUT,2041,Solar PV,39.1,Modelled,Transition Scenario 2026
+Austria,AUT,2042,Solar PV,39.2,Modelled,Transition Scenario 2026
+Austria,AUT,2043,Solar PV,39.3,Modelled,Transition Scenario 2026
+Austria,AUT,2044,Solar PV,39.4,Modelled,Transition Scenario 2026
+Austria,AUT,2045,Solar PV,39.5,Modelled,Transition Scenario 2026
+Austria,AUT,2046,Solar PV,39.6,Modelled,Transition Scenario 2026
+Austria,AUT,2047,Solar PV,39.7,Modelled,Transition Scenario 2026
+Austria,AUT,2048,Solar PV,39.8,Modelled,Transition Scenario 2026
+Austria,AUT,2049,Solar PV,39.9,Modelled,Transition Scenario 2026
+Austria,AUT,2050,Solar PV,40.0,Modelled,Transition Scenario 2026
+Austria,AUT,2000,Wind,0.05,Observed,IRENA historical
+Austria,AUT,2001,Wind,0.067,Observed,IRENA historical
+Austria,AUT,2002,Wind,0.109,Observed,IRENA historical
+Austria,AUT,2003,Wind,0.322,Observed,IRENA historical
+Austria,AUT,2004,Wind,0.581,Observed,IRENA historical
+Austria,AUT,2005,Wind,0.825219,Observed,IRENA historical
+Austria,AUT,2006,Wind,0.968269,Observed,IRENA historical
+Austria,AUT,2007,Wind,0.991159,Observed,IRENA historical
+Austria,AUT,2008,Wind,0.991974,Observed,IRENA historical
+Austria,AUT,2009,Wind,1.000985,Observed,IRENA historical
+Austria,AUT,2010,Wind,1.015828,Observed,IRENA historical
+Austria,AUT,2011,Wind,1.105966,Observed,IRENA historical
+Austria,AUT,2012,Wind,1.33715,Observed,IRENA historical
+Austria,AUT,2013,Wind,1.674538,Observed,IRENA historical
+Austria,AUT,2014,Wind,2.1102748,Observed,IRENA historical
+Austria,AUT,2015,Wind,2.4887261,Observed,IRENA historical
+Austria,AUT,2016,Wind,2.7299962,Observed,IRENA historical
+Austria,AUT,2017,Wind,2.886698,Observed,IRENA historical
+Austria,AUT,2018,Wind,3.1327128,Observed,IRENA historical
+Austria,AUT,2019,Wind,3.224117,Observed,IRENA historical
+Austria,AUT,2020,Wind,3.225979,Observed,IRENA historical
+Austria,AUT,2021,Wind,3.422335,Observed,IRENA historical
+Austria,AUT,2022,Wind,3.621926,Observed,IRENA historical
+Austria,AUT,2023,Wind,3.8962939,Observed,IRENA historical
+Austria,AUT,2024,Wind,4.092154,Observed,IRENA historical
+Austria,AUT,2025,Wind,4.292154,Observed,IRENA historical
+Austria,AUT,2026,Wind,5.1137232,Modelled,Transition Scenario 2026
+Austria,AUT,2027,Wind,5.9352924,Modelled,Transition Scenario 2026
+Austria,AUT,2028,Wind,6.756861600000001,Modelled,Transition Scenario 2026
+Austria,AUT,2029,Wind,7.5784308000000005,Modelled,Transition Scenario 2026
+Austria,AUT,2030,Wind,8.4,Modelled,Transition Scenario 2026
+Austria,AUT,2031,Wind,8.72,Modelled,Transition Scenario 2026
+Austria,AUT,2032,Wind,9.040000000000001,Modelled,Transition Scenario 2026
+Austria,AUT,2033,Wind,9.36,Modelled,Transition Scenario 2026
+Austria,AUT,2034,Wind,9.68,Modelled,Transition Scenario 2026
+Austria,AUT,2035,Wind,10.0,Modelled,Transition Scenario 2026
+Austria,AUT,2036,Wind,10.32,Modelled,Transition Scenario 2026
+Austria,AUT,2037,Wind,10.64,Modelled,Transition Scenario 2026
+Austria,AUT,2038,Wind,10.96,Modelled,Transition Scenario 2026
+Austria,AUT,2039,Wind,11.28,Modelled,Transition Scenario 2026
+Austria,AUT,2040,Wind,11.6,Modelled,Transition Scenario 2026
+Austria,AUT,2041,Wind,11.62,Modelled,Transition Scenario 2026
+Austria,AUT,2042,Wind,11.64,Modelled,Transition Scenario 2026
+Austria,AUT,2043,Wind,11.66,Modelled,Transition Scenario 2026
+Austria,AUT,2044,Wind,11.68,Modelled,Transition Scenario 2026
+Austria,AUT,2045,Wind,11.7,Modelled,Transition Scenario 2026
+Austria,AUT,2046,Wind,11.72,Modelled,Transition Scenario 2026
+Austria,AUT,2047,Wind,11.74,Modelled,Transition Scenario 2026
+Austria,AUT,2048,Wind,11.76,Modelled,Transition Scenario 2026
+Austria,AUT,2049,Wind,11.780000000000001,Modelled,Transition Scenario 2026
+Austria,AUT,2050,Wind,11.8,Modelled,Transition Scenario 2026
+Croatia,HRV,2009,Solar PV,0.0003,Observed,IRENA historical
+Croatia,HRV,2010,Solar PV,0.0003,Observed,IRENA historical
+Croatia,HRV,2011,Solar PV,0.0003,Observed,IRENA historical
+Croatia,HRV,2012,Solar PV,0.004,Observed,IRENA historical
+Croatia,HRV,2013,Solar PV,0.019,Observed,IRENA historical
+Croatia,HRV,2014,Solar PV,0.033,Observed,IRENA historical
+Croatia,HRV,2015,Solar PV,0.0478,Observed,IRENA historical
+Croatia,HRV,2016,Solar PV,0.0558,Observed,IRENA historical
+Croatia,HRV,2017,Solar PV,0.06,Observed,IRENA historical
+Croatia,HRV,2018,Solar PV,0.0677,Observed,IRENA historical
+Croatia,HRV,2019,Solar PV,0.084800005,Observed,IRENA historical
+Croatia,HRV,2020,Solar PV,0.1085,Observed,IRENA historical
+Croatia,HRV,2021,Solar PV,0.1383,Observed,IRENA historical
+Croatia,HRV,2022,Solar PV,0.222,Observed,IRENA historical
+Croatia,HRV,2023,Solar PV,0.4625,Observed,IRENA historical
+Croatia,HRV,2024,Solar PV,0.9018,Observed,IRENA historical
+Croatia,HRV,2025,Solar PV,1.3188001,Observed,IRENA historical
+Croatia,HRV,2026,Solar PV,1.53144008,Modelled,NECP WAM
+Croatia,HRV,2027,Solar PV,1.74408006,Modelled,NECP WAM
+Croatia,HRV,2028,Solar PV,1.95672004,Modelled,NECP WAM
+Croatia,HRV,2029,Solar PV,2.16936002,Modelled,NECP WAM
+Croatia,HRV,2030,Solar PV,2.382,Modelled,NECP WAM
+Croatia,HRV,2031,Solar PV,2.6298000000000004,Modelled,NECP WAM
+Croatia,HRV,2032,Solar PV,2.8776,Modelled,NECP WAM
+Croatia,HRV,2033,Solar PV,3.1254,Modelled,NECP WAM
+Croatia,HRV,2034,Solar PV,3.3732,Modelled,NECP WAM
+Croatia,HRV,2035,Solar PV,3.6210000000000004,Modelled,NECP WAM
+Croatia,HRV,2036,Solar PV,3.8688000000000002,Modelled,NECP WAM
+Croatia,HRV,2037,Solar PV,4.1166,Modelled,NECP WAM
+Croatia,HRV,2038,Solar PV,4.3644,Modelled,NECP WAM
+Croatia,HRV,2039,Solar PV,4.6122,Modelled,NECP WAM
+Croatia,HRV,2040,Solar PV,4.86,Modelled,NECP WAM
+Croatia,HRV,2041,Solar PV,4.9510000000000005,Modelled,NECP WAM
+Croatia,HRV,2042,Solar PV,5.042,Modelled,NECP WAM
+Croatia,HRV,2043,Solar PV,5.133,Modelled,NECP WAM
+Croatia,HRV,2044,Solar PV,5.224,Modelled,NECP WAM
+Croatia,HRV,2045,Solar PV,5.3149999999999995,Modelled,NECP WAM
+Croatia,HRV,2046,Solar PV,5.406,Modelled,NECP WAM
+Croatia,HRV,2047,Solar PV,5.497,Modelled,NECP WAM
+Croatia,HRV,2048,Solar PV,5.588,Modelled,NECP WAM
+Croatia,HRV,2049,Solar PV,5.678999999999999,Modelled,NECP WAM
+Croatia,HRV,2050,Solar PV,5.77,Modelled,NECP WAM
+Croatia,HRV,2004,Wind,0.006,Observed,IRENA historical
+Croatia,HRV,2005,Wind,0.006,Observed,IRENA historical
+Croatia,HRV,2006,Wind,0.017,Observed,IRENA historical
+Croatia,HRV,2007,Wind,0.017,Observed,IRENA historical
+Croatia,HRV,2008,Wind,0.017,Observed,IRENA historical
+Croatia,HRV,2009,Wind,0.07,Observed,IRENA historical
+Croatia,HRV,2010,Wind,0.079,Observed,IRENA historical
+Croatia,HRV,2011,Wind,0.13,Observed,IRENA historical
+Croatia,HRV,2012,Wind,0.18,Observed,IRENA historical
+Croatia,HRV,2013,Wind,0.254,Observed,IRENA historical
+Croatia,HRV,2014,Wind,0.339,Observed,IRENA historical
+Croatia,HRV,2015,Wind,0.418,Observed,IRENA historical
+Croatia,HRV,2016,Wind,0.483,Observed,IRENA historical
+Croatia,HRV,2017,Wind,0.5761,Observed,IRENA historical
+Croatia,HRV,2018,Wind,0.5863,Observed,IRENA historical
+Croatia,HRV,2019,Wind,0.64629996,Observed,IRENA historical
+Croatia,HRV,2020,Wind,0.8013,Observed,IRENA historical
+Croatia,HRV,2021,Wind,0.98690003,Observed,IRENA historical
+Croatia,HRV,2022,Wind,0.98690003,Observed,IRENA historical
+Croatia,HRV,2023,Wind,1.1602,Observed,IRENA historical
+Croatia,HRV,2024,Wind,1.3032,Observed,IRENA historical
+Croatia,HRV,2025,Wind,1.3751999,Observed,IRENA historical
+Croatia,HRV,2026,Wind,1.5537599199999999,Modelled,NECP WAM
+Croatia,HRV,2027,Wind,1.73231994,Modelled,NECP WAM
+Croatia,HRV,2028,Wind,1.91087996,Modelled,NECP WAM
+Croatia,HRV,2029,Wind,2.08943998,Modelled,NECP WAM
+Croatia,HRV,2030,Wind,2.268,Modelled,NECP WAM
+Croatia,HRV,2031,Wind,2.3975,Modelled,NECP WAM
+Croatia,HRV,2032,Wind,2.5269999999999997,Modelled,NECP WAM
+Croatia,HRV,2033,Wind,2.6565,Modelled,NECP WAM
+Croatia,HRV,2034,Wind,2.786,Modelled,NECP WAM
+Croatia,HRV,2035,Wind,2.9154999999999998,Modelled,NECP WAM
+Croatia,HRV,2036,Wind,3.045,Modelled,NECP WAM
+Croatia,HRV,2037,Wind,3.1745,Modelled,NECP WAM
+Croatia,HRV,2038,Wind,3.3040000000000003,Modelled,NECP WAM
+Croatia,HRV,2039,Wind,3.4335,Modelled,NECP WAM
+Croatia,HRV,2040,Wind,3.563,Modelled,NECP WAM
+Croatia,HRV,2041,Wind,3.6420000000000003,Modelled,NECP WAM
+Croatia,HRV,2042,Wind,3.721,Modelled,NECP WAM
+Croatia,HRV,2043,Wind,3.8,Modelled,NECP WAM
+Croatia,HRV,2044,Wind,3.879,Modelled,NECP WAM
+Croatia,HRV,2045,Wind,3.958,Modelled,NECP WAM
+Croatia,HRV,2046,Wind,4.037,Modelled,NECP WAM
+Croatia,HRV,2047,Wind,4.116,Modelled,NECP WAM
+Croatia,HRV,2048,Wind,4.195,Modelled,NECP WAM
+Croatia,HRV,2049,Wind,4.274,Modelled,NECP WAM
+Croatia,HRV,2050,Wind,4.353,Modelled,NECP WAM

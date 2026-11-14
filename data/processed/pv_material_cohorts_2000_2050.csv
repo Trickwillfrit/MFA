@@ -1,0 +1,1489 @@
+Country,Year,Technology,Cohort_Type,Flow_Type,Material_Group,Subtechnology,Material,Capacity_Basis_GW,Material_Intensity_t_per_GW,Material_Cohort_t
+Austria,2000,Solar PV,Opening stock,Initial stock,Common,All PV,Al,0.005,7500.0,37.5
+Austria,2000,Solar PV,Opening stock,Initial stock,Common,All PV,Concrete,0.005,60700.0,303.5
+Austria,2000,Solar PV,Opening stock,Initial stock,Common,All PV,Cu,0.005,4600.0,23.0
+Austria,2000,Solar PV,Opening stock,Initial stock,Common,All PV,Glass,0.005,46400.0,232.0
+Austria,2000,Solar PV,Opening stock,Initial stock,Common,All PV,Plastic,0.005,8600.0,43.0
+Austria,2000,Solar PV,Opening stock,Initial stock,Common,All PV,Steel,0.005,67900.0,339.5
+Austria,2000,Solar PV,Opening stock,Initial stock,Subtechnology-specific,CIGS,Cu,9.5e-05,25.3,0.0024035000000000003
+Austria,2000,Solar PV,Opening stock,Initial stock,Subtechnology-specific,CIGS,Ga,9.5e-05,11.0,0.0010450000000000001
+Austria,2000,Solar PV,Opening stock,Initial stock,Subtechnology-specific,CIGS,In,9.5e-05,43.0,0.004085
+Austria,2000,Solar PV,Opening stock,Initial stock,Subtechnology-specific,CIGS,Se,9.5e-05,107.0,0.010165
+Austria,2000,Solar PV,Opening stock,Initial stock,Subtechnology-specific,CdTe,Cd,0.00012,116.0,0.01392
+Austria,2000,Solar PV,Opening stock,Initial stock,Subtechnology-specific,CdTe,Te,0.00012,132.0,0.01584
+Austria,2000,Solar PV,Opening stock,Initial stock,Subtechnology-specific,a-Si,Ge,1.5e-05,73.0,0.001095
+Austria,2000,Solar PV,Opening stock,Initial stock,Subtechnology-specific,a-Si,Si,1.5e-05,163.0,0.002445
+Austria,2000,Solar PV,Opening stock,Initial stock,Subtechnology-specific,c-Si,Ag,0.00477,84.0,0.40068
+Austria,2000,Solar PV,Opening stock,Initial stock,Subtechnology-specific,c-Si,Si,0.00477,7000.0,33.39
+Austria,2001,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.002,7500.0,15.0
+Austria,2001,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.002,60700.0,121.4
+Austria,2001,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.002,4600.0,9.200000000000001
+Austria,2001,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.002,46400.0,92.8
+Austria,2001,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.002,8600.0,17.2
+Austria,2001,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.002,67900.0,135.8
+Austria,2001,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,3.8e-05,25.3,0.0009614000000000001
+Austria,2001,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,3.8e-05,11.0,0.000418
+Austria,2001,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,3.8e-05,43.0,0.001634
+Austria,2001,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,3.8e-05,107.0,0.004066
+Austria,2001,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,4.8e-05,116.0,0.005568
+Austria,2001,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,4.8e-05,132.0,0.0063360000000000005
+Austria,2001,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,6e-06,73.0,0.000438
+Austria,2001,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,6e-06,163.0,0.000978
+Austria,2001,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.001908,84.0,0.160272
+Austria,2001,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.001908,7000.0,13.356
+Austria,2002,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.001999999999999999,7500.0,14.999999999999995
+Austria,2002,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.001999999999999999,60700.0,121.39999999999995
+Austria,2002,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.001999999999999999,4600.0,9.199999999999996
+Austria,2002,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.001999999999999999,46400.0,92.79999999999997
+Austria,2002,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.001999999999999999,8600.0,17.199999999999992
+Austria,2002,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.001999999999999999,67900.0,135.79999999999995
+Austria,2002,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,3.799999999999998e-05,25.3,0.0009613999999999995
+Austria,2002,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,3.799999999999998e-05,11.0,0.0004179999999999998
+Austria,2002,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,3.799999999999998e-05,43.0,0.0016339999999999992
+Austria,2002,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,3.799999999999998e-05,107.0,0.0040659999999999984
+Austria,2002,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,4.799999999999998e-05,116.0,0.005567999999999997
+Austria,2002,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,4.799999999999998e-05,132.0,0.006335999999999998
+Austria,2002,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,5.999999999999998e-06,73.0,0.0004379999999999998
+Austria,2002,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,5.999999999999998e-06,163.0,0.0009779999999999997
+Austria,2002,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.001907999999999999,84.0,0.16027199999999991
+Austria,2002,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.001907999999999999,7000.0,13.355999999999995
+Austria,2003,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.014,7500.0,105.0
+Austria,2003,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.014,60700.0,849.8000000000001
+Austria,2003,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.014,4600.0,64.4
+Austria,2003,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.014,46400.0,649.6
+Austria,2003,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.014,8600.0,120.4
+Austria,2003,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.014,67900.0,950.6
+Austria,2003,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.000266,25.3,0.0067298
+Austria,2003,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.000266,11.0,0.002926
+Austria,2003,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.000266,43.0,0.011438
+Austria,2003,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.000266,107.0,0.028462
+Austria,2003,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.00033600000000000004,116.0,0.038976000000000004
+Austria,2003,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.00033600000000000004,132.0,0.044352
+Austria,2003,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,4.2000000000000004e-05,73.0,0.003066
+Austria,2003,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,4.2000000000000004e-05,163.0,0.0068460000000000005
+Austria,2003,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.013356,84.0,1.121904
+Austria,2003,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.013356,7000.0,93.492
+Austria,2004,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.004,7500.0,30.0
+Austria,2004,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.004,60700.0,242.8
+Austria,2004,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.004,4600.0,18.400000000000002
+Austria,2004,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.004,46400.0,185.6
+Austria,2004,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.004,8600.0,34.4
+Austria,2004,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.004,67900.0,271.6
+Austria,2004,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,7.6e-05,25.3,0.0019228000000000001
+Austria,2004,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,7.6e-05,11.0,0.000836
+Austria,2004,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,7.6e-05,43.0,0.003268
+Austria,2004,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,7.6e-05,107.0,0.008132
+Austria,2004,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,9.6e-05,116.0,0.011136
+Austria,2004,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,9.6e-05,132.0,0.012672000000000001
+Austria,2004,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,1.2e-05,73.0,0.000876
+Austria,2004,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,1.2e-05,163.0,0.001956
+Austria,2004,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.003816,84.0,0.320544
+Austria,2004,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.003816,7000.0,26.712
+Austria,2005,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.0,7500.0,0.0
+Austria,2005,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.0,60700.0,0.0
+Austria,2005,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.0,4600.0,0.0
+Austria,2005,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.0,46400.0,0.0
+Austria,2005,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.0,8600.0,0.0
+Austria,2005,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.0,67900.0,0.0
+Austria,2005,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.0,25.3,0.0
+Austria,2005,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.0,11.0,0.0
+Austria,2005,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.0,43.0,0.0
+Austria,2005,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.0,107.0,0.0
+Austria,2005,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.0,116.0,0.0
+Austria,2005,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.0,132.0,0.0
+Austria,2005,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0,73.0,0.0
+Austria,2005,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0,163.0,0.0
+Austria,2005,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.0,84.0,0.0
+Austria,2005,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.0,7000.0,0.0
+Austria,2006,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.001369002000000001,7500.0,10.267515000000008
+Austria,2006,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.001369002000000001,60700.0,83.09842140000006
+Austria,2006,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.001369002000000001,4600.0,6.297409200000005
+Austria,2006,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.001369002000000001,46400.0,63.521692800000054
+Austria,2006,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.001369002000000001,8600.0,11.77341720000001
+Austria,2006,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.001369002000000001,67900.0,92.95523580000008
+Austria,2006,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,2.601103800000002e-05,25.3,0.0006580792614000005
+Austria,2006,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,2.601103800000002e-05,11.0,0.0002861214180000002
+Austria,2006,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,2.601103800000002e-05,43.0,0.0011184746340000009
+Austria,2006,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,2.601103800000002e-05,107.0,0.002783181066000002
+Austria,2006,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,3.285604800000003e-05,116.0,0.0038113015680000034
+Austria,2006,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,3.285604800000003e-05,132.0,0.004336998336000004
+Austria,2006,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,4.107006000000004e-06,73.0,0.0002998114380000003
+Austria,2006,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,4.107006000000004e-06,163.0,0.0006694419780000006
+Austria,2006,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.001306027908000001,84.0,0.10970634427200007
+Austria,2006,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.001306027908000001,7000.0,9.142195356000006
+Austria,2007,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.001851000000000002,7500.0,13.882500000000014
+Austria,2007,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.001851000000000002,60700.0,112.35570000000011
+Austria,2007,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.001851000000000002,4600.0,8.514600000000009
+Austria,2007,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.001851000000000002,46400.0,85.8864000000001
+Austria,2007,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.001851000000000002,8600.0,15.918600000000017
+Austria,2007,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.001851000000000002,67900.0,125.68290000000013
+Austria,2007,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,3.5169000000000035e-05,25.3,0.0008897757000000009
+Austria,2007,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,3.5169000000000035e-05,11.0,0.0003868590000000004
+Austria,2007,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,3.5169000000000035e-05,43.0,0.0015122670000000016
+Austria,2007,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,3.5169000000000035e-05,107.0,0.003763083000000004
+Austria,2007,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,4.442400000000005e-05,116.0,0.005153184000000005
+Austria,2007,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,4.442400000000005e-05,132.0,0.005863968000000006
+Austria,2007,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,5.553000000000006e-06,73.0,0.0004053690000000004
+Austria,2007,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,5.553000000000006e-06,163.0,0.000905139000000001
+Austria,2007,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.0017658540000000018,84.0,0.14833173600000016
+Austria,2007,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.0017658540000000018,7000.0,12.360978000000014
+Austria,2008,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.005881995999999997,7500.0,44.11496999999998
+Austria,2008,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.005881995999999997,60700.0,357.0371571999998
+Austria,2008,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.005881995999999997,4600.0,27.057181599999986
+Austria,2008,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.005881995999999997,46400.0,272.9246143999999
+Austria,2008,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.005881995999999997,8600.0,50.585165599999975
+Austria,2008,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.005881995999999997,67900.0,399.3875283999998
+Austria,2008,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.00011175792399999993,25.3,0.0028274754771999986
+Austria,2008,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.00011175792399999993,11.0,0.0012293371639999992
+Austria,2008,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.00011175792399999993,43.0,0.004805590731999997
+Austria,2008,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.00011175792399999993,107.0,0.011958097867999992
+Austria,2008,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.00014116790399999992,116.0,0.01637547686399999
+Austria,2008,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.00014116790399999992,132.0,0.01863416332799999
+Austria,2008,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,1.764598799999999e-05,73.0,0.0012881571239999993
+Austria,2008,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,1.764598799999999e-05,163.0,0.0028762960439999985
+Austria,2008,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.005611424183999997,84.0,0.47135963145599974
+Austria,2008,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.005611424183999997,7000.0,39.279969287999975
+Austria,2009,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.018795004,7500.0,140.96253000000002
+Austria,2009,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.018795004,60700.0,1140.8567428000001
+Austria,2009,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.018795004,4600.0,86.45701840000001
+Austria,2009,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.018795004,46400.0,872.0881856
+Austria,2009,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.018795004,8600.0,161.6370344
+Austria,2009,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.018795004,67900.0,1276.1807716
+Austria,2009,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.000357105076,25.3,0.0090347584228
+Austria,2009,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.000357105076,11.0,0.003928155836
+Austria,2009,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.000357105076,43.0,0.015355518268
+Austria,2009,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.000357105076,107.0,0.038210243132
+Austria,2009,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.000451080096,116.0,0.052325291136
+Austria,2009,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.000451080096,132.0,0.059542572672
+Austria,2009,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,5.6385012e-05,73.0,0.004116105876
+Austria,2009,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,5.6385012e-05,163.0,0.009190756956000001
+Austria,2009,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.017930433816,84.0,1.506156440544
+Austria,2009,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.017930433816,7000.0,125.513036712
+Austria,2010,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.039898008,7500.0,299.23506
+Austria,2010,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.039898008,60700.0,2421.8090856
+Austria,2010,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.039898008,4600.0,183.5308368
+Austria,2010,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.039898008,46400.0,1851.2675712
+Austria,2010,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.039898008,8600.0,343.1228688
+Austria,2010,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.039898008,67900.0,2709.0747432
+Austria,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.0007580621519999999,25.3,0.0191789724456
+Austria,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.0007580621519999999,11.0,0.008338683671999999
+Austria,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.0007580621519999999,43.0,0.032596672535999995
+Austria,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.0007580621519999999,107.0,0.081112650264
+Austria,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.000957552192,116.0,0.111076054272
+Austria,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.000957552192,132.0,0.126396889344
+Austria,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.000119694024,73.0,0.008737663752
+Austria,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.000119694024,163.0,0.019510125912
+Austria,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.038062699632,84.0,3.197266769088
+Austria,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.038062699632,7000.0,266.438897424
+Austria,2011,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.08525698000000001,7500.0,639.42735
+Austria,2011,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.08525698000000001,60700.0,5175.098686
+Austria,2011,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.08525698000000001,4600.0,392.182108
+Austria,2011,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.08525698000000001,46400.0,3955.9238720000003
+Austria,2011,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.08525698000000001,8600.0,733.2100280000001
+Austria,2011,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.08525698000000001,67900.0,5788.948942000001
+Austria,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.0016198826200000001,25.1375,0.040719799360250004
+Austria,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.0016198826200000001,10.5,0.01700876751
+Austria,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.0016198826200000001,41.0,0.06641518742000001
+Austria,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.0016198826200000001,101.125,0.1638106299475
+Austria,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.0020461675200000003,112.125,0.22942653318000003
+Austria,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.0020461675200000003,127.375,0.26063058786000004
+Austria,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.00025577094000000004,69.875,0.017871994432500003
+Austria,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.00025577094000000004,161.375,0.041275035442500004
+Austria,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.08133515892000001,76.0,6.1814720779200005
+Austria,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.08133515892000001,6625.0,538.8454278450001
+Austria,2012,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.16341300999999997,7500.0,1225.5975749999998
+Austria,2012,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.16341300999999997,60700.0,9919.169706999997
+Austria,2012,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.16341300999999997,4600.0,751.6998459999999
+Austria,2012,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.16341300999999997,46400.0,7582.363663999999
+Austria,2012,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.16341300999999997,8600.0,1405.3518859999997
+Austria,2012,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.16341300999999997,67900.0,11095.743378999998
+Austria,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.0031048471899999992,24.975,0.07754355857024998
+Austria,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.0031048471899999992,10.0,0.031048471899999992
+Austria,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.0031048471899999992,39.0,0.12108904040999997
+Austria,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.0031048471899999992,95.25,0.2957366948474999
+Austria,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.0039219122399999995,108.25,0.42454699997999995
+Austria,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.0039219122399999995,122.75,0.48141472745999997
+Austria,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0004902390299999999,66.75,0.0327234552525
+Austria,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0004902390299999999,159.75,0.07831568504249999
+Austria,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.15589601153999996,68.0,10.600928784719997
+Austria,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.15589601153999996,6250.0,974.3500721249998
+Austria,2013,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.28849100000000005,7500.0,2163.6825000000003
+Austria,2013,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.28849100000000005,60700.0,17511.403700000003
+Austria,2013,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.28849100000000005,4600.0,1327.0586000000003
+Austria,2013,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.28849100000000005,46400.0,13385.982400000003
+Austria,2013,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.28849100000000005,8600.0,2481.0226000000002
+Austria,2013,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.28849100000000005,67900.0,19588.538900000003
+Austria,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.005481329000000001,24.8125,0.13600547581250003
+Austria,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.005481329000000001,9.5,0.05207262550000001
+Austria,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.005481329000000001,37.0,0.20280917300000004
+Austria,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.005481329000000001,89.375,0.48989377937500006
+Austria,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.006923784000000001,104.375,0.7226699550000002
+Austria,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.006923784000000001,118.125,0.8178719850000001
+Austria,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0008654730000000002,63.625,0.05506571962500001
+Austria,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0008654730000000002,158.125,0.13685291812500003
+Austria,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.275220414,60.0,16.513224840000003
+Austria,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.275220414,5875.0,1616.91993225
+Austria,2014,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.15927199999999997,7500.0,1194.5399999999997
+Austria,2014,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.15927199999999997,60700.0,9667.810399999998
+Austria,2014,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.15927199999999997,4600.0,732.6511999999999
+Austria,2014,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.15927199999999997,46400.0,7390.220799999998
+Austria,2014,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.15927199999999997,8600.0,1369.7391999999998
+Austria,2014,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.15927199999999997,67900.0,10814.568799999997
+Austria,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.0030261679999999992,24.65,0.07459504119999998
+Austria,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.0030261679999999992,9.0,0.027235511999999993
+Austria,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.0030261679999999992,35.0,0.10591587999999998
+Austria,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.0030261679999999992,83.5,0.2526850279999999
+Austria,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.0038225279999999995,100.5,0.38416406399999997
+Austria,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.0038225279999999995,113.5,0.4338569279999999
+Austria,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.00047781599999999994,60.5,0.028907867999999996
+Austria,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.00047781599999999994,156.5,0.07477820399999999
+Austria,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.15194548799999996,52.0,7.901165375999998
+Austria,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.15194548799999996,5500.0,835.7001839999998
+Austria,2015,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.151852,7500.0,1138.8899999999999
+Austria,2015,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.151852,60700.0,9217.4164
+Austria,2015,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.151852,4600.0,698.5192
+Austria,2015,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.151852,46400.0,7045.9328
+Austria,2015,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.151852,8600.0,1305.9271999999999
+Austria,2015,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.151852,67900.0,10310.7508
+Austria,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.0028851879999999995,24.4875,0.07065104114999998
+Austria,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.0028851879999999995,8.5,0.024524097999999994
+Austria,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.0028851879999999995,33.0,0.09521120399999998
+Austria,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.0028851879999999995,77.625,0.22396271849999996
+Austria,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.003644448,96.625,0.352144788
+Austria,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.003644448,108.875,0.39678927599999997
+Austria,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.000455556,57.375,0.026137525499999998
+Austria,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.000455556,154.875,0.07055423549999999
+Austria,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.14486680799999999,44.0,6.374139551999999
+Austria,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.14486680799999999,5125.0,742.4423909999999
+Austria,2016,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.15891800000000011,7500.0,1191.885000000001
+Austria,2016,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.15891800000000011,60700.0,9646.322600000007
+Austria,2016,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.15891800000000011,4600.0,731.0228000000005
+Austria,2016,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.15891800000000011,46400.0,7373.795200000005
+Austria,2016,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.15891800000000011,8600.0,1366.694800000001
+Austria,2016,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.15891800000000011,67900.0,10790.532200000007
+Austria,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.003019442000000002,24.325,0.07344792665000005
+Austria,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.003019442000000002,8.0,0.024155536000000016
+Austria,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.003019442000000002,31.0,0.09360270200000007
+Austria,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.003019442000000002,71.75,0.21664496350000015
+Austria,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.003814032000000003,92.75,0.35375146800000024
+Austria,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.003814032000000003,104.25,0.3976128360000003
+Austria,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.00047675400000000035,54.25,0.02586390450000002
+Austria,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.00047675400000000035,153.25,0.07306255050000006
+Austria,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.1516077720000001,36.0,5.457879792000004
+Austria,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.1516077720000001,4750.0,720.1369170000005
+Austria,2017,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.1729550999999998,7500.0,1297.1632499999985
+Austria,2017,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.1729550999999998,60700.0,10498.374569999989
+Austria,2017,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.1729550999999998,4600.0,795.5934599999991
+Austria,2017,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.1729550999999998,46400.0,8025.116639999991
+Austria,2017,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.1729550999999998,8600.0,1487.4138599999983
+Austria,2017,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.1729550999999998,67900.0,11743.651289999987
+Austria,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.003286146899999996,24.1625,0.07940152447124992
+Austria,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.003286146899999996,7.5,0.024646101749999972
+Austria,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.003286146899999996,29.0,0.09529826009999989
+Austria,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.003286146899999996,65.875,0.21647492703749974
+Austria,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.004150922399999995,88.875,0.3689132282999996
+Austria,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.004150922399999995,99.625,0.41353564409999954
+Austria,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0005188652999999994,51.125,0.02652698846249997
+Austria,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0005188652999999994,151.625,0.07867295111249992
+Austria,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.16499916539999981,28.0,4.619976631199995
+Austria,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.16499916539999981,4375.0,721.8713486249992
+Austria,2018,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.18616090000000018,7500.0,1396.2067500000014
+Austria,2018,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.18616090000000018,60700.0,11299.966630000012
+Austria,2018,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.18616090000000018,4600.0,856.3401400000008
+Austria,2018,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.18616090000000018,46400.0,8637.865760000008
+Austria,2018,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.18616090000000018,8600.0,1600.9837400000015
+Austria,2018,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.18616090000000018,67900.0,12640.325110000013
+Austria,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.003537057100000003,24.0,0.08488937040000008
+Austria,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.003537057100000003,7.0,0.02475939970000002
+Austria,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.003537057100000003,27.0,0.09550054170000008
+Austria,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.003537057100000003,60.0,0.2122234260000002
+Austria,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.004467861600000005,85.0,0.37976823600000037
+Austria,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.004467861600000005,95.0,0.42444685200000043
+Austria,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0005584827000000006,48.0,0.026807169600000028
+Austria,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0005584827000000006,150.0,0.08377240500000009
+Austria,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.17759749860000018,20.0,3.5519499720000036
+Austria,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.17759749860000018,4000.0,710.3899944000008
+Austria,2019,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.24696099999999999,7500.0,1852.2075
+Austria,2019,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.24696099999999999,60700.0,14990.5327
+Austria,2019,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.24696099999999999,4600.0,1136.0205999999998
+Austria,2019,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.24696099999999999,46400.0,11458.990399999999
+Austria,2019,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.24696099999999999,8600.0,2123.8646
+Austria,2019,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.24696099999999999,67900.0,16768.6519
+Austria,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.00531737903125,23.5,0.12495840723437499
+Austria,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.00531737903125,6.5,0.034562963703125
+Austria,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.00531737903125,24.5,0.130275786265625
+Austria,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.00531737903125,55.5,0.295114536234375
+Austria,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.006513596375000001,81.0,0.527601306375
+Austria,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.006513596375000001,91.0,0.5927372701250001
+Austria,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0009492563437499999,48.0,0.0455643045
+Austria,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0009492563437499999,147.5,0.14001531070312498
+Austria,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.23418076824999998,19.0,4.44943459675
+Austria,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.23418076824999998,3950.0,925.0140345875
+Austria,2020,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.34584099999999973,7500.0,2593.807499999998
+Austria,2020,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.34584099999999973,60700.0,20992.548699999985
+Austria,2020,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.34584099999999973,4600.0,1590.8685999999989
+Austria,2020,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.34584099999999973,46400.0,16047.022399999987
+Austria,2020,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.34584099999999973,8600.0,2974.2325999999975
+Austria,2020,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.34584099999999973,67900.0,23482.60389999998
+Austria,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.008321799062499994,23.0,0.19140137843749988
+Austria,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.008321799062499994,6.0,0.04993079437499996
+Austria,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.008321799062499994,22.0,0.18307957937499988
+Austria,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.008321799062499994,51.0,0.4244117521874997
+Austria,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.009942928749999993,77.0,0.7656055137499994
+Austria,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.009942928749999993,87.0,0.8650348012499994
+Austria,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0016211296874999988,48.0,0.07781422499999995
+Austria,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0016211296874999988,145.0,0.23506380468749982
+Austria,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.32595514249999974,18.0,5.867192564999995
+Austria,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.32595514249999974,3900.0,1271.225055749999
+Austria,2021,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.741668,7500.0,5562.51
+Austria,2021,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.741668,60700.0,45019.2476
+Austria,2021,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.741668,4600.0,3411.6728
+Austria,2021,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.741668,46400.0,34413.3952
+Austria,2021,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.741668,8600.0,6378.3448
+Austria,2021,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.741668,67900.0,50359.2572
+Austria,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.019723733375,22.45,0.44279781426875
+Austria,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.019723733375,5.85,0.11538384024375
+Austria,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.019723733375,21.5,0.4240602675625
+Austria,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.019723733375,49.9,0.9842142954124999
+Austria,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.0230844165,75.3,1.73825656245
+Austria,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.0230844165,85.3,1.9691007274499999
+Austria,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.004102351125,46.4,0.1903490922
+Austria,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.004102351125,143.5,0.5886873864375
+Austria,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.694757499,17.3,12.0193047327
+Austria,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.694757499,3860.0,2681.76394614
+Austria,2022,Solar PV,Annual installation,Material inflow,Common,All PV,Al,1.0111022,7500.0,7583.266500000001
+Austria,2022,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,1.0111022,60700.0,61373.90354000001
+Austria,2022,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,1.0111022,4600.0,4651.07012
+Austria,2022,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,1.0111022,46400.0,46915.142080000005
+Austria,2022,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,1.0111022,8600.0,8695.478920000001
+Austria,2022,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,1.0111022,67900.0,68653.83938
+Austria,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.029448351575,21.9,0.6449188994924999
+Austria,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.029448351575,5.7,0.16785560397750002
+Austria,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.029448351575,21.0,0.618415383075
+Austria,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.029448351575,48.8,1.4370795568599999
+Austria,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.0338719237,73.6,2.49297358432
+Austria,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.0338719237,83.6,2.83169282132
+Austria,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.006445776525000001,44.8,0.28877078832
+Austria,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.006445776525000001,142.0,0.9153002665500002
+Austria,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.9413361482,16.6,15.626180060120001
+Austria,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.9413361482,3820.0,3595.904086124
+Austria,2023,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.6079101999999996,7500.0,19559.326499999996
+Austria,2023,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.6079101999999996,60700.0,158300.14913999996
+Austria,2023,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.6079101999999996,4600.0,11996.386919999999
+Austria,2023,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.6079101999999996,46400.0,121007.03327999999
+Austria,2023,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.6079101999999996,8600.0,22428.02772
+Austria,2023,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.6079101999999996,67900.0,177077.10257999998
+Austria,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.08255665726874999,21.35,1.7625846326878123
+Austria,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.08255665726874999,5.55,0.4581894478415624
+Austria,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.08255665726874999,20.5,1.6924114740093747
+Austria,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.08255665726874999,47.7,3.9379525517193747
+Austria,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.093558778425,71.9,6.726876168757501
+Austria,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.093558778425,81.9,7.662463953007501
+Austria,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.018825851756249998,43.2,0.8132767958699999
+Austria,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.018825851756249998,140.5,2.6450321717531247
+Austria,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,2.41296891255,15.9,38.366205709545
+Austria,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,2.41296891255,3780.0,9121.022489439
+Austria,2024,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.5134595999999996,7500.0,18850.946999999996
+Austria,2024,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.5134595999999996,60700.0,152566.99771999998
+Austria,2024,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.5134595999999996,4600.0,11561.914159999998
+Austria,2024,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.5134595999999996,46400.0,116624.52543999998
+Austria,2024,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.5134595999999996,8600.0,21615.752559999997
+Austria,2024,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.5134595999999996,67900.0,170663.90683999998
+Austria,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.08592890007499998,20.8,1.7873211215599996
+Austria,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.08592890007499998,5.4,0.46401606040499993
+Austria,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.08592890007499998,20.0,1.7185780014999996
+Austria,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.08592890007499998,46.6,4.004286743494999
+Austria,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.0961398297,70.2,6.74901604494
+Austria,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.0961398297,80.2,7.71041434194
+Austria,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.020264768024999998,41.6,0.8430143498399999
+Austria,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.020264768024999998,139.0,2.8168027554749995
+Austria,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,2.3111261021999994,15.2,35.12911675343999
+Austria,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,2.3111261021999994,3740.0,8643.611622227998
+Austria,2025,Solar PV,Annual installation,Material inflow,Common,All PV,Al,1.4000000000000004,7500.0,10500.000000000002
+Austria,2025,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,1.4000000000000004,60700.0,84980.00000000001
+Austria,2025,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,1.4000000000000004,4600.0,6440.000000000002
+Austria,2025,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,1.4000000000000004,46400.0,64960.000000000015
+Austria,2025,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,1.4000000000000004,8600.0,12040.000000000004
+Austria,2025,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,1.4000000000000004,67900.0,95060.00000000003
+Austria,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.051406250000000014,20.25,1.0409765625000003
+Austria,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.051406250000000014,5.25,0.26988281250000007
+Austria,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.051406250000000014,19.5,1.0024218750000002
+Austria,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.051406250000000014,45.5,2.338984375000001
+Austria,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.056875000000000016,68.5,3.895937500000001
+Austria,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.056875000000000016,78.5,4.464687500000001
+Austria,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.012468750000000004,40.0,0.49875000000000014
+Austria,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.012468750000000004,137.5,1.7144531250000006
+Austria,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.2792500000000002,14.5,18.549125000000004
+Austria,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.2792500000000002,3700.0,4733.225
+Austria,2026,Solar PV,Annual installation,Material inflow,Common,All PV,Al,1.942354202,7500.0,14567.656515
+Austria,2026,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,1.942354202,60700.0,117900.9000614
+Austria,2026,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,1.942354202,4600.0,8934.8293292
+Austria,2026,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,1.942354202,46400.0,90125.2349728
+Austria,2026,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,1.942354202,8600.0,16704.2461372
+Austria,2026,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,1.942354202,67900.0,131885.8503158
+Austria,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.0762374024285,19.7,1.5018768278414498
+Austria,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.0762374024285,5.1,0.38881075238534996
+Austria,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.0762374024285,19.0,1.4485106461414998
+Austria,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.0762374024285,44.4,3.3849406678253997
+Austria,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.08352123068600001,66.8,5.5792182098248
+Austria,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.08352123068600001,76.8,6.4144305166848
+Austria,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0189379534695,38.4,0.7272174132288
+Austria,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0189379534695,136.0,2.575561671852
+Austria,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.7636576154159997,13.8,24.338475092740797
+Austria,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.7636576154159997,3660.0,6454.986872422559
+Austria,2027,Solar PV,Annual installation,Material inflow,Common,All PV,Al,1.9428362000000001,7500.0,14571.2715
+Austria,2027,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,1.9428362000000001,60700.0,117930.15734
+Austria,2027,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,1.9428362000000001,4600.0,8937.04652
+Austria,2027,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,1.9428362000000001,46400.0,90147.59968
+Austria,2027,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,1.9428362000000001,8600.0,16708.391320000002
+Austria,2027,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,1.9428362000000001,67900.0,131918.57798
+Austria,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.08117412498125,19.15,1.5544844933909374
+Austria,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.08117412498125,4.95,0.4018119186571875
+Austria,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.08117412498125,18.5,1.501721312153125
+Austria,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.08117412498125,43.3,3.514839611688125
+Austria,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.08815619257500001,65.1,5.738968136632501
+Austria,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.08815619257500001,75.1,6.6205300623825005
+Austria,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.02058192099375,36.8,0.7574146925699999
+Austria,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.02058192099375,134.5,2.768268373659375
+Austria,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.75292396145,13.100000000000001,22.963303894995004
+Austria,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.75292396145,3620.0,6345.5847404490005
+Austria,2028,Solar PV,Annual installation,Material inflow,Common,All PV,Al,1.9468671960000001,7500.0,14601.503970000002
+Austria,2028,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,1.9468671960000001,60700.0,118174.8387972
+Austria,2028,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,1.9468671960000001,4600.0,8955.5891016
+Austria,2028,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,1.9468671960000001,46400.0,90334.6378944
+Austria,2028,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,1.9468671960000001,8600.0,16743.057885600003
+Austria,2028,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,1.9468671960000001,67900.0,132192.2826084
+Austria,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.08627055262275002,18.6,1.6046322787831504
+Austria,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.08627055262275002,4.8,0.4140986525892001
+Austria,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.08627055262275002,18.0,1.5528699472095004
+Austria,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.08627055262275002,42.2,3.640617320680051
+Austria,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.09296290860900001,63.4,5.8938484058106
+Austria,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.09296290860900001,73.4,6.823477491900602
+Austria,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.02226729355425,35.2,0.7838087331096001
+Austria,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.02226729355425,133.0,2.96155004271525
+Austria,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.745366441214,12.4,21.6425438710536
+Austria,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.745366441214,3580.0,6248.41185954612
+Austria,2029,Solar PV,Annual installation,Material inflow,Common,All PV,Al,1.959780204,7500.0,14698.35153
+Austria,2029,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,1.959780204,60700.0,118958.6583828
+Austria,2029,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,1.959780204,4600.0,9014.9889384
+Austria,2029,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,1.959780204,46400.0,90933.8014656
+Austria,2029,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,1.959780204,8600.0,16854.1097544
+Austria,2029,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,1.959780204,67900.0,133069.0758516
+Austria,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.091803453931125,18.05,1.6570523434568063
+Austria,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.091803453931125,4.65,0.4268860607797313
+Austria,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.091803453931125,17.5,1.6065604437946877
+Austria,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.091803453931125,41.1,3.7731219565692378
+Austria,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.0982339827255,61.7,6.06103673416335
+Austria,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.0982339827255,71.7,7.04337656141835
+Austria,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.024068550630375003,33.6,0.8087033011806002
+Austria,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.024068550630375003,131.5,3.1650144078943128
+Austria,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.745674216713,11.7,20.424388335542098
+Austria,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.745674216713,3540.0,6179.686727164019
+Austria,2030,Solar PV,Annual installation,Material inflow,Common,All PV,Al,1.980883208,7500.0,14856.62406
+Austria,2030,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,1.980883208,60700.0,120239.61072560001
+Austria,2030,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,1.980883208,4600.0,9112.0627568
+Austria,2030,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,1.980883208,46400.0,91912.9808512
+Austria,2030,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,1.980883208,8600.0,17035.5955888
+Austria,2030,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,1.980883208,67900.0,134501.9698232
+Austria,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.09780610839500001,17.5,1.7116068969125002
+Austria,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.09780610839500001,4.5,0.44012748777750005
+Austria,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.09780610839500001,17.0,1.662703842715
+Austria,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.09780610839500001,40.0,3.9122443358000005
+Austria,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.10399636842000001,60.0,6.239782105200001
+Austria,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.10399636842000001,70.0,7.279745789400001
+Austria,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.025999092105000003,32.0,0.8319709473600001
+Austria,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.025999092105000003,130.0,3.3798819736500003
+Austria,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.7530816390800001,11.0,19.283898029880003
+Austria,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.7530816390800001,3500.0,6135.785736780001
+Austria,2031,Solar PV,Annual installation,Material inflow,Common,All PV,Al,1.9852569799999986,7500.0,14889.427349999989
+Austria,2031,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,1.9852569799999986,60700.0,120505.09868599991
+Austria,2031,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,1.9852569799999986,4600.0,9132.182107999994
+Austria,2031,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,1.9852569799999986,46400.0,92115.92387199994
+Austria,2031,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,1.9852569799999986,8600.0,17073.210027999987
+Austria,2031,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,1.9852569799999986,67900.0,134798.9489419999
+Austria,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.10304724511812494,17.37,1.7899306477018302
+Austria,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.10304724511812494,4.35,0.4482555162638434
+Austria,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.10304724511812494,16.5,1.7002795444490615
+Austria,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.10304724511812494,38.5,3.96731893704781
+Austria,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.10894097677749993,58.4,6.362153043805996
+Austria,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.10894097677749993,68.0,7.407986420869996
+Austria,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.027731558439374977,31.2,0.8652246233084993
+Austria,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.027731558439374977,129.0,3.577371038679372
+Austria,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.7455371996649987,10.5,18.328140596482484
+Austria,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.7455371996649987,3500.0,6109.380198827495
+Austria,2032,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.0634130100000023,7500.0,15475.597575000018
+Austria,2032,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.0634130100000023,60700.0,125249.16970700014
+Austria,2032,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.0634130100000023,4600.0,9491.69984600001
+Austria,2032,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.0634130100000023,46400.0,95742.3636640001
+Austria,2032,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.0634130100000023,8600.0,17745.35188600002
+Austria,2032,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.0634130100000023,67900.0,140105.74337900017
+Austria,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.11232704573187513,17.24,1.936518268417527
+Austria,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.11232704573187513,4.2,0.4717735920738756
+Austria,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.11232704573187513,16.0,1.797232731710002
+Austria,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.11232704573187513,37.0,4.15610069207938
+Austria,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.11813039482250014,56.8,6.709806425918007
+Austria,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.11813039482250014,66.0,7.796606058285009
+Austria,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.03056430521062503,30.4,0.9291548784030009
+Austria,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.03056430521062503,128.0,3.912231066960004
+Austria,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.802391264235002,10.0,18.02391264235002
+Austria,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.802391264235002,3500.0,6308.3694248225065
+Austria,2033,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.1884909999999986,7500.0,16413.682499999988
+Austria,2033,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.1884909999999986,60700.0,132841.4036999999
+Austria,2033,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.1884909999999986,4600.0,10067.058599999993
+Austria,2033,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.1884909999999986,46400.0,101545.98239999994
+Austria,2033,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.1884909999999986,8600.0,18821.02259999999
+Austria,2033,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.1884909999999986,67900.0,148598.5388999999
+Austria,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.12467559665624992,17.11,2.133199458788436
+Austria,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.12467559665624992,4.05,0.5049361664578121
+Austria,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.12467559665624992,15.5,1.9324717481718736
+Austria,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.12467559665624992,35.5,4.425983681296872
+Austria,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.13048877587499993,55.2,7.2029804282999965
+Austria,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.13048877587499993,64.0,8.351281655999996
+Austria,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.03426356221874998,29.6,1.0142014416749994
+Austria,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.03426356221874998,127.0,4.351472401781248
+Austria,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.899063065249999,9.5,18.04109911987499
+Austria,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.899063065249999,3500.0,6646.720728374996
+Austria,2034,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.059272000000002,7500.0,15444.540000000017
+Austria,2034,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.059272000000002,60700.0,124997.81040000013
+Austria,2034,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.059272000000002,4600.0,9472.65120000001
+Austria,2034,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.059272000000002,46400.0,95550.2208000001
+Austria,2034,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.059272000000002,8600.0,17709.739200000018
+Austria,2034,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.059272000000002,67900.0,139824.56880000015
+Austria,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.12252668400000012,16.98,2.0805030943200022
+Austria,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.12252668400000012,3.9,0.4778540676000005
+Austria,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.12252668400000012,15.0,1.8379002600000018
+Austria,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.12252668400000012,34.0,4.165907256000004
+Austria,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.12767486400000014,53.6,6.843372710400008
+Austria,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.12767486400000014,62.0,7.915841568000008
+Austria,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.033977988000000035,28.8,0.978566054400001
+Austria,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.033977988000000035,126.0,4.281226488000004
+Austria,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.7750924640000019,9.0,15.975832176000017
+Austria,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.7750924640000019,3500.0,6212.823624000007
+Austria,2035,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.0518519999999985,7500.0,15388.889999999989
+Austria,2035,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.0518519999999985,60700.0,124547.4163999999
+Austria,2035,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.0518519999999985,4600.0,9438.519199999993
+Austria,2035,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.0518519999999985,46400.0,95205.93279999992
+Austria,2035,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.0518519999999985,8600.0,17645.927199999987
+Austria,2035,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.0518519999999985,67900.0,139320.7507999999
+Austria,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.1272789443749999,16.85,2.1446502127187483
+Austria,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.1272789443749999,3.75,0.4772960414062496
+Austria,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.1272789443749999,14.5,1.8455446934374986
+Austria,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.1272789443749999,32.5,4.136565692187497
+Austria,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.13208797249999993,52.0,6.868574569999996
+Austria,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.13208797249999993,60.0,7.925278349999996
+Austria,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.03558680812499997,28.0,0.9964306274999992
+Austria,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.03558680812499997,125.0,4.448351015624997
+Austria,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.7568982749999986,8.5,14.933635337499988
+Austria,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.7568982749999986,3500.0,6149.143962499995
+Austria,2036,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.0589179999999985,7500.0,15441.88499999999
+Austria,2036,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.0589179999999985,60700.0,124976.32259999991
+Austria,2036,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.0589179999999985,4600.0,9471.022799999993
+Austria,2036,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.0589179999999985,46400.0,95533.79519999993
+Austria,2036,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.0589179999999985,8600.0,17706.694799999987
+Austria,2036,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.0589179999999985,67900.0,139800.5321999999
+Austria,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.13292889337499988,16.72,2.222571097229998
+Austria,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.13292889337499988,3.6,0.4785440161499996
+Austria,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.13292889337499988,14.0,1.8610045072499983
+Austria,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.13292889337499988,31.0,4.120795694624997
+Austria,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.1374327764999999,50.4,6.926611935599995
+Austria,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.1374327764999999,58.0,7.971101036999995
+Austria,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.03744657112499997,27.2,1.018546734599999
+Austria,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.03744657112499997,124.0,4.6433748194999955
+Austria,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.7511097589999989,8.0,14.008878071999991
+Austria,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.7511097589999989,3500.0,6128.884156499996
+Austria,2037,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.0729550999999984,7500.0,15547.163249999989
+Austria,2037,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.0729550999999984,60700.0,125828.3745699999
+Austria,2037,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.0729550999999984,4600.0,9535.593459999993
+Austria,2037,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.0729550999999984,46400.0,96185.11663999992
+Austria,2037,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.0729550999999984,8600.0,17827.413859999986
+Austria,2037,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.0729550999999984,67900.0,140753.6512899999
+Austria,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.1390823312406249,16.59,2.3073758752819673
+Austria,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.1390823312406249,3.45,0.47983404278015596
+Austria,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.1390823312406249,13.5,1.8776114717484362
+Austria,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.1390823312406249,29.5,4.102928771598435
+Austria,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.1432930212874999,48.8,6.992699438829995
+Austria,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.1432930212874999,56.0,8.024409192099995
+Austria,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.03945092674687497,26.4,1.041504466117499
+Austria,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.03945092674687497,123.0,4.852463989865621
+Austria,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.7511288207249986,7.5,13.133466155437489
+Austria,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.7511288207249986,3500.0,6128.950872537495
+Austria,2038,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.0861609000000056,7500.0,15646.206750000043
+Austria,2038,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.0861609000000056,60700.0,126629.96663000034
+Austria,2038,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.0861609000000056,4600.0,9596.340140000026
+Austria,2038,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.0861609000000056,46400.0,96797.86576000026
+Austria,2038,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.0861609000000056,8600.0,17940.983740000047
+Austria,2038,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.0861609000000056,67900.0,141650.32511000038
+Austria,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.1452489526625004,16.46,2.3907977608247566
+Austria,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.1452489526625004,3.3,0.4793215437862513
+Austria,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.1452489526625004,13.0,1.8882363846125052
+Austria,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.1452489526625004,28.0,4.066970674550011
+Austria,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.14916050435000042,47.2,7.0403758053200205
+Austria,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.14916050435000042,54.0,8.054667234900023
+Austria,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.041462447887500115,25.6,1.061438665920003
+Austria,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.041462447887500115,122.0,5.058418642275014
+Austria,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.7502889951000047,7.0,12.252022965700032
+Austria,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.7502889951000047,3500.0,6126.011482850016
+Austria,2039,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.1469609999999912,7500.0,16102.207499999935
+Austria,2039,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.1469609999999912,60700.0,130320.53269999947
+Austria,2039,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.1469609999999912,4600.0,9876.02059999996
+Austria,2039,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.1469609999999912,46400.0,99618.99039999959
+Austria,2039,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.1469609999999912,8600.0,18463.864599999924
+Austria,2039,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.1469609999999912,67900.0,145778.65189999942
+Austria,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.15491665465624938,16.33,2.529788970536552
+Austria,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.15491665465624938,3.1500000000000004,0.4879874621671856
+Austria,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.15491665465624938,12.5,1.9364581832031171
+Austria,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.15491665465624938,26.5,4.105291348390608
+Austria,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.15860674387499937,45.6,7.232467520699972
+Austria,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.15860674387499937,52.0,8.247550681499968
+Austria,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.044482348218749815,24.8,1.1031622358249955
+Austria,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.044482348218749815,121.0,5.382364134468728
+Austria,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.7889552532499928,6.5,11.628209146124954
+Austria,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.7889552532499928,3500.0,6261.343386374975
+Austria,2040,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.2458410000000053,7500.0,16843.80750000004
+Austria,2040,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.2458410000000053,60700.0,136322.54870000033
+Austria,2040,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.2458410000000053,4600.0,10330.868600000025
+Austria,2040,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.2458410000000053,46400.0,104207.02240000025
+Austria,2040,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.2458410000000053,8600.0,19314.232600000047
+Austria,2040,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.2458410000000053,67900.0,152492.60390000037
+Austria,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.1677362496875004,16.2,2.7173272449375063
+Austria,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.1677362496875004,3.0,0.5032087490625012
+Austria,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.1677362496875004,12.0,2.012834996250005
+Austria,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.1677362496875004,25.0,4.19340624218751
+Austria,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.17124537625000044,44.0,7.534796555000019
+Austria,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.17124537625000044,50.0,8.562268812500022
+Austria,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.04842594656250011,24.0,1.1622227175000028
+Austria,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.04842594656250011,120.0,5.811113587500014
+Austria,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.8584334275000045,6.0,11.150600565000026
+Austria,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.8584334275000045,3500.0,6504.516996250016
+Austria,2041,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.8416680000000014,7500.0,6312.51000000001
+Austria,2041,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.8416680000000014,60700.0,51089.24760000008
+Austria,2041,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.8416680000000014,4600.0,3871.6728000000066
+Austria,2041,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.8416680000000014,46400.0,39053.395200000065
+Austria,2041,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.8416680000000014,8600.0,7238.344800000013
+Austria,2041,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.8416680000000014,67900.0,57149.257200000095
+Austria,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.06499255087500011,16.08,1.0450802180700016
+Austria,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.06499255087500011,2.95,0.19172802508125034
+Austria,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.06499255087500011,11.8,0.7669121003250013
+Austria,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.06499255087500011,24.5,1.5923174964375026
+Austria,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.06617614650000012,43.1,2.852191914150005
+Austria,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.06617614650000012,49.0,3.2426311785000057
+Austria,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.018858623625000032,23.6,0.4450635175500008
+Austria,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.018858623625000032,119.0,2.2441762113750037
+Austria,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.6916406790000011,5.9,4.080680006100007
+Austria,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.6916406790000011,3450.0,2386.160342550004
+Austria,2042,Solar PV,Annual installation,Material inflow,Common,All PV,Al,1.1111022000000015,7500.0,8333.26650000001
+Austria,2042,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,1.1111022000000015,60700.0,67443.90354000009
+Austria,2042,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,1.1111022000000015,4600.0,5111.070120000007
+Austria,2042,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,1.1111022000000015,46400.0,51555.14208000007
+Austria,2042,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,1.1111022000000015,8600.0,9555.478920000012
+Austria,2042,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,1.1111022000000015,67900.0,75443.8393800001
+Austria,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.08861040045000013,15.959999999999999,1.414221991182002
+Austria,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.08861040045000013,2.9,0.25697016130500033
+Austria,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.08861040045000013,11.6,1.0278806452200013
+Austria,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.08861040045000013,24.0,2.126649610800003
+Austria,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.08999927820000014,42.2,3.797969540040006
+Austria,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.08999927820000014,48.0,4.319965353600007
+Austria,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.025833126150000035,23.2,0.5993285266800008
+Austria,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.025833126150000035,118.0,3.048308885700004
+Austria,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.9066593952000013,5.8,5.258624492160007
+Austria,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.9066593952000013,3400.0,3082.6419436800043
+Austria,2043,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.707910199999994,7500.0,20309.326499999956
+Austria,2043,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.707910199999994,60700.0,164370.14913999964
+Austria,2043,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.707910199999994,4600.0,12456.386919999972
+Austria,2043,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.707910199999994,46400.0,125647.03327999971
+Austria,2043,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.707910199999994,8600.0,23288.027719999947
+Austria,2043,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.707910199999994,67900.0,183867.1025799996
+Austria,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.2228102361437495,15.84,3.529314140516992
+Austria,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.2228102361437495,2.85,0.6350091730096861
+Austria,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.2228102361437495,11.4,2.5400366920387443
+Austria,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.2228102361437495,23.5,5.236040549378114
+Austria,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.22577201292499952,41.3,9.324384133802479
+Austria,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.22577201292499952,47.0,10.611284607474976
+Austria,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.06524371138124986,22.8,1.487556619492497
+Austria,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.06524371138124986,117.0,7.633514231606234
+Austria,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,2.194084239549995,5.7,12.506280165434973
+Austria,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,2.194084239549995,3350.0,7350.182202492483
+Austria,2044,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.613459600000001,7500.0,19600.947000000007
+Austria,2044,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.613459600000001,60700.0,158636.99772000007
+Austria,2044,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.613459600000001,4600.0,12021.914160000004
+Austria,2044,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.613459600000001,46400.0,121264.52544000004
+Austria,2044,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.613459600000001,8600.0,22475.752560000008
+Austria,2044,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.613459600000001,67900.0,177453.90684000007
+Austria,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.22165404232500008,15.719999999999999,3.484401545349001
+Austria,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.22165404232500008,2.8,0.6206313185100002
+Austria,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.22165404232500008,11.2,2.482525274040001
+Austria,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.22165404232500008,23.0,5.0980429734750015
+Austria,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.22410416070000014,40.4,9.053808092280006
+Austria,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.22410416070000014,46.0,10.308791392200007
+Austria,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.06517314877500002,22.4,1.4598785325600003
+Austria,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.06517314877500002,116.0,7.560085257900003
+Austria,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,2.102528248200001,5.6,11.774158189920005
+Austria,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,2.102528248200001,3300.0,6938.343219060003
+Austria,2045,Solar PV,Annual installation,Material inflow,Common,All PV,Al,1.5000000000000018,7500.0,11250.000000000013
+Austria,2045,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,1.5000000000000018,60700.0,91050.0000000001
+Austria,2045,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,1.5000000000000018,4600.0,6900.000000000008
+Austria,2045,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,1.5000000000000018,46400.0,69600.00000000009
+Austria,2045,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,1.5000000000000018,8600.0,12900.000000000015
+Austria,2045,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,1.5000000000000018,67900.0,101850.00000000012
+Austria,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.13101562500000016,15.6,2.0438437500000024
+Austria,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.13101562500000016,2.75,0.36029296875000044
+Austria,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.13101562500000016,11.0,1.4411718750000018
+Austria,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.13101562500000016,22.5,2.9478515625000035
+Austria,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.13218750000000018,39.5,5.221406250000007
+Austria,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.13218750000000018,45.0,5.948437500000008
+Austria,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.03867187500000004,22.0,0.8507812500000009
+Austria,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.03867187500000004,115.0,4.447265625000005
+Austria,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.1981250000000014,5.5,6.589687500000008
+Austria,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.1981250000000014,3250.0,3893.9062500000045
+Austria,2046,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.042354202000001,7500.0,15317.65651500001
+Austria,2046,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.042354202000001,60700.0,123970.90006140007
+Austria,2046,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.042354202000001,4600.0,9394.829329200005
+Austria,2046,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.042354202000001,46400.0,94765.23497280006
+Austria,2046,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.042354202000001,8600.0,17564.24613720001
+Austria,2046,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.042354202000001,67900.0,138675.85031580008
+Austria,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.18355658390475013,15.48,2.841455918845532
+Austria,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.18355658390475013,2.7,0.49560277654282536
+Austria,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.18355658390475013,10.8,1.9824111061713015
+Austria,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.18355658390475013,22.0,4.038244845904503
+Austria,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.1848330552810001,38.6,7.134555933846604
+Austria,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.1848330552810001,44.0,8.132654432364005
+Austria,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.05437768062825003,21.6,1.1745579015702008
+Austria,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.05437768062825003,114.0,6.199055591620504
+Austria,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.619586882186001,5.4,8.745769163804406
+Austria,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.619586882186001,3200.0,5182.678022995204
+Austria,2047,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.0428362000000018,7500.0,15321.271500000013
+Austria,2047,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.0428362000000018,60700.0,124000.1573400001
+Austria,2047,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.0428362000000018,4600.0,9397.046520000009
+Austria,2047,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.0428362000000018,46400.0,94787.59968000009
+Austria,2047,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.0428362000000018,8600.0,17568.391320000017
+Austria,2047,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.0428362000000018,67900.0,138708.57798000012
+Austria,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.1887708326062502,15.36,2.8995199888320027
+Austria,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.1887708326062502,2.65,0.500242706406563
+Austria,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.1887708326062502,10.6,2.000970825626252
+Austria,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.1887708326062502,21.5,4.058572901034379
+Austria,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.18972841207500019,37.7,7.152761135227507
+Austria,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.18972841207500019,43.0,8.158321719225007
+Austria,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.05611415686875005,21.2,1.189620125617501
+Austria,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.05611415686875005,113.0,6.340899726168756
+Austria,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.6082227984500015,5.3,8.523580831785008
+Austria,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.6082227984500015,3150.0,5065.901815117505
+Austria,2048,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.0468671959999947,7500.0,15351.50396999996
+Austria,2048,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.0468671959999947,60700.0,124244.83879719967
+Austria,2048,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.0468671959999947,4600.0,9415.589101599975
+Austria,2048,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.0468671959999947,46400.0,94974.63789439976
+Austria,2048,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.0468671959999947,8600.0,17603.057885599956
+Austria,2048,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.0468671959999947,67900.0,138982.28260839963
+Austria,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.1943244544202495,15.24,2.9615046853646025
+Austria,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.1943244544202495,2.6,0.5052435814926487
+Austria,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.1943244544202495,10.4,2.020974325970595
+Austria,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.1943244544202495,21.0,4.08081354282524
+Austria,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.1949641004189995,36.8,7.174678895419182
+Austria,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.1949641004189995,42.0,8.188492217597979
+Austria,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.05795192748674984,20.8,1.2054000917243968
+Austria,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.05795192748674984,112.0,6.490615878515983
+Austria,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.5996267136739961,5.2,8.31805891110478
+Austria,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.5996267136739961,3100.0,4958.842812389388
+Austria,2049,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.0597802040000017,7500.0,15448.351530000013
+Austria,2049,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.0597802040000017,60700.0,125028.6583828001
+Austria,2049,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.0597802040000017,4600.0,9474.988938400007
+Austria,2049,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.0597802040000017,46400.0,95573.80146560007
+Austria,2049,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.0597802040000017,8600.0,17714.109754400015
+Austria,2049,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.0597802040000017,67900.0,139859.07585160012
+Austria,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.2007642017586252,15.12,3.035554730590413
+Austria,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.2007642017586252,2.55,0.5119487144844942
+Austria,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.2007642017586252,10.2,2.0477948579379768
+Austria,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.2007642017586252,20.5,4.115666136051816
+Austria,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.2010860424155002,35.9,7.218988922716457
+Austria,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.2010860424155002,41.0,8.244527739035508
+Austria,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.06005546657287505,20.4,1.2251315180866509
+Austria,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.06005546657287505,111.0,6.66615678958913
+Austria,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.5978744932530013,5.1,8.149159915590307
+Austria,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.5978744932530013,3050.0,4873.517204421654
+Austria,2050,Solar PV,Annual installation,Material inflow,Common,All PV,Al,2.0808832080000013,7500.0,15606.62406000001
+Austria,2050,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,2.0808832080000013,60700.0,126309.61072560008
+Austria,2050,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,2.0808832080000013,4600.0,9572.062756800005
+Austria,2050,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,2.0808832080000013,46400.0,96552.98085120006
+Austria,2050,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,2.0808832080000013,8600.0,17895.59558880001
+Austria,2050,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,2.0808832080000013,67900.0,141291.96982320008
+Austria,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.20808832080000014,15.0,3.1213248120000023
+Austria,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.20808832080000014,2.5,0.5202208020000003
+Austria,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.20808832080000014,10.0,2.0808832080000013
+Austria,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.20808832080000014,20.0,4.1617664160000025
+Austria,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.20808832080000014,35.0,7.283091228000005
+Austria,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.20808832080000014,40.0,8.323532832000005
+Austria,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.06242649624000004,20.0,1.2485299248000008
+Austria,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.06242649624000004,110.0,6.8669145864000045
+Austria,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,1.602280070160001,5.0,8.011400350800006
+Austria,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,1.602280070160001,3000.0,4806.840210480003
+Croatia,2009,Solar PV,Opening stock,Initial stock,Common,All PV,Al,0.0003,7500.0,2.25
+Croatia,2009,Solar PV,Opening stock,Initial stock,Common,All PV,Concrete,0.0003,60700.0,18.209999999999997
+Croatia,2009,Solar PV,Opening stock,Initial stock,Common,All PV,Cu,0.0003,4600.0,1.38
+Croatia,2009,Solar PV,Opening stock,Initial stock,Common,All PV,Glass,0.0003,46400.0,13.919999999999998
+Croatia,2009,Solar PV,Opening stock,Initial stock,Common,All PV,Plastic,0.0003,8600.0,2.5799999999999996
+Croatia,2009,Solar PV,Opening stock,Initial stock,Common,All PV,Steel,0.0003,67900.0,20.369999999999997
+Croatia,2009,Solar PV,Opening stock,Initial stock,Subtechnology-specific,CIGS,Cu,5.7e-06,25.3,0.00014421
+Croatia,2009,Solar PV,Opening stock,Initial stock,Subtechnology-specific,CIGS,Ga,5.7e-06,11.0,6.269999999999999e-05
+Croatia,2009,Solar PV,Opening stock,Initial stock,Subtechnology-specific,CIGS,In,5.7e-06,43.0,0.0002451
+Croatia,2009,Solar PV,Opening stock,Initial stock,Subtechnology-specific,CIGS,Se,5.7e-06,107.0,0.0006098999999999999
+Croatia,2009,Solar PV,Opening stock,Initial stock,Subtechnology-specific,CdTe,Cd,7.2e-06,116.0,0.0008351999999999999
+Croatia,2009,Solar PV,Opening stock,Initial stock,Subtechnology-specific,CdTe,Te,7.2e-06,132.0,0.0009504
+Croatia,2009,Solar PV,Opening stock,Initial stock,Subtechnology-specific,a-Si,Ge,9e-07,73.0,6.57e-05
+Croatia,2009,Solar PV,Opening stock,Initial stock,Subtechnology-specific,a-Si,Si,9e-07,163.0,0.0001467
+Croatia,2009,Solar PV,Opening stock,Initial stock,Subtechnology-specific,c-Si,Ag,0.00028619999999999996,84.0,0.024040799999999998
+Croatia,2009,Solar PV,Opening stock,Initial stock,Subtechnology-specific,c-Si,Si,0.00028619999999999996,7000.0,2.0033999999999996
+Croatia,2010,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.0,7500.0,0.0
+Croatia,2010,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.0,60700.0,0.0
+Croatia,2010,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.0,4600.0,0.0
+Croatia,2010,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.0,46400.0,0.0
+Croatia,2010,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.0,8600.0,0.0
+Croatia,2010,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.0,67900.0,0.0
+Croatia,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.0,25.3,0.0
+Croatia,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.0,11.0,0.0
+Croatia,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.0,43.0,0.0
+Croatia,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.0,107.0,0.0
+Croatia,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.0,116.0,0.0
+Croatia,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.0,132.0,0.0
+Croatia,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0,73.0,0.0
+Croatia,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0,163.0,0.0
+Croatia,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.0,84.0,0.0
+Croatia,2010,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.0,7000.0,0.0
+Croatia,2011,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.0,7500.0,0.0
+Croatia,2011,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.0,60700.0,0.0
+Croatia,2011,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.0,4600.0,0.0
+Croatia,2011,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.0,46400.0,0.0
+Croatia,2011,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.0,8600.0,0.0
+Croatia,2011,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.0,67900.0,0.0
+Croatia,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.0,25.1375,0.0
+Croatia,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.0,10.5,0.0
+Croatia,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.0,41.0,0.0
+Croatia,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.0,101.125,0.0
+Croatia,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.0,112.125,0.0
+Croatia,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.0,127.375,0.0
+Croatia,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0,69.875,0.0
+Croatia,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0,161.375,0.0
+Croatia,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.0,76.0,0.0
+Croatia,2011,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.0,6625.0,0.0
+Croatia,2012,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.0037,7500.0,27.75
+Croatia,2012,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.0037,60700.0,224.59
+Croatia,2012,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.0037,4600.0,17.02
+Croatia,2012,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.0037,46400.0,171.68
+Croatia,2012,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.0037,8600.0,31.82
+Croatia,2012,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.0037,67900.0,251.23000000000002
+Croatia,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,7.03e-05,24.975,0.0017557425000000002
+Croatia,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,7.03e-05,10.0,0.0007030000000000001
+Croatia,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,7.03e-05,39.0,0.0027417
+Croatia,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,7.03e-05,95.25,0.006696075
+Croatia,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,8.88e-05,108.25,0.0096126
+Croatia,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,8.88e-05,122.75,0.0109002
+Croatia,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,1.11e-05,66.75,0.000740925
+Croatia,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,1.11e-05,159.75,0.001773225
+Croatia,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.0035298,68.0,0.2400264
+Croatia,2012,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.0035298,6250.0,22.06125
+Croatia,2013,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.015,7500.0,112.5
+Croatia,2013,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.015,60700.0,910.5
+Croatia,2013,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.015,4600.0,69.0
+Croatia,2013,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.015,46400.0,696.0
+Croatia,2013,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.015,8600.0,129.0
+Croatia,2013,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.015,67900.0,1018.5
+Croatia,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.000285,24.8125,0.0070715625
+Croatia,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.000285,9.5,0.0027075
+Croatia,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.000285,37.0,0.010544999999999999
+Croatia,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.000285,89.375,0.025471874999999998
+Croatia,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.00035999999999999997,104.375,0.037575
+Croatia,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.00035999999999999997,118.125,0.04252499999999999
+Croatia,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,4.4999999999999996e-05,63.625,0.002863125
+Croatia,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,4.4999999999999996e-05,158.125,0.0071156249999999996
+Croatia,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.014309999999999998,60.0,0.8585999999999999
+Croatia,2013,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.014309999999999998,5875.0,84.07124999999999
+Croatia,2014,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.014000000000000002,7500.0,105.00000000000001
+Croatia,2014,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.014000000000000002,60700.0,849.8000000000001
+Croatia,2014,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.014000000000000002,4600.0,64.4
+Croatia,2014,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.014000000000000002,46400.0,649.6000000000001
+Croatia,2014,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.014000000000000002,8600.0,120.40000000000002
+Croatia,2014,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.014000000000000002,67900.0,950.6000000000001
+Croatia,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.000266,24.65,0.0065569
+Croatia,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.000266,9.0,0.0023940000000000003
+Croatia,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.000266,35.0,0.00931
+Croatia,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.000266,83.5,0.022211
+Croatia,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.00033600000000000004,100.5,0.033768000000000006
+Croatia,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.00033600000000000004,113.5,0.038136
+Croatia,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,4.2000000000000004e-05,60.5,0.0025410000000000003
+Croatia,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,4.2000000000000004e-05,156.5,0.006573000000000001
+Croatia,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.013356000000000002,52.0,0.6945120000000001
+Croatia,2014,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.013356000000000002,5500.0,73.45800000000001
+Croatia,2015,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.0148,7500.0,111.0
+Croatia,2015,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.0148,60700.0,898.36
+Croatia,2015,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.0148,4600.0,68.08
+Croatia,2015,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.0148,46400.0,686.72
+Croatia,2015,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.0148,8600.0,127.28
+Croatia,2015,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.0148,67900.0,1004.9200000000001
+Croatia,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.0002812,24.4875,0.0068858850000000004
+Croatia,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.0002812,8.5,0.0023902
+Croatia,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.0002812,33.0,0.0092796
+Croatia,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.0002812,77.625,0.02182815
+Croatia,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.0003552,96.625,0.0343212
+Croatia,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.0003552,108.875,0.0386724
+Croatia,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,4.44e-05,57.375,0.00254745
+Croatia,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,4.44e-05,154.875,0.00687645
+Croatia,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.0141192,44.0,0.6212448
+Croatia,2015,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.0141192,5125.0,72.3609
+Croatia,2016,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.008,7500.0,60.0
+Croatia,2016,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.008,60700.0,485.6
+Croatia,2016,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.008,4600.0,36.800000000000004
+Croatia,2016,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.008,46400.0,371.2
+Croatia,2016,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.008,8600.0,68.8
+Croatia,2016,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.008,67900.0,543.2
+Croatia,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.000152,24.325,0.0036974
+Croatia,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.000152,8.0,0.001216
+Croatia,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.000152,31.0,0.004712
+Croatia,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.000152,71.75,0.010906
+Croatia,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.000192,92.75,0.017808
+Croatia,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.000192,104.25,0.020016
+Croatia,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,2.4e-05,54.25,0.001302
+Croatia,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,2.4e-05,153.25,0.0036780000000000003
+Croatia,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.007632,36.0,0.274752
+Croatia,2016,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.007632,4750.0,36.252
+Croatia,2017,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.004199999999999995,7500.0,31.499999999999964
+Croatia,2017,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.004199999999999995,60700.0,254.9399999999997
+Croatia,2017,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.004199999999999995,4600.0,19.31999999999998
+Croatia,2017,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.004199999999999995,46400.0,194.8799999999998
+Croatia,2017,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.004199999999999995,8600.0,36.11999999999996
+Croatia,2017,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.004199999999999995,67900.0,285.17999999999967
+Croatia,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,7.979999999999991e-05,24.1625,0.001928167499999998
+Croatia,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,7.979999999999991e-05,7.5,0.0005984999999999993
+Croatia,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,7.979999999999991e-05,29.0,0.002314199999999997
+Croatia,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,7.979999999999991e-05,65.875,0.005256824999999994
+Croatia,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.00010079999999999989,88.875,0.00895859999999999
+Croatia,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.00010079999999999989,99.625,0.010042199999999989
+Croatia,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,1.2599999999999986e-05,51.125,0.0006441749999999993
+Croatia,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,1.2599999999999986e-05,151.625,0.0019104749999999979
+Croatia,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.004006799999999995,28.0,0.11219039999999987
+Croatia,2017,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.004006799999999995,4375.0,17.52974999999998
+Croatia,2018,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.0076999999999999985,7500.0,57.749999999999986
+Croatia,2018,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.0076999999999999985,60700.0,467.38999999999993
+Croatia,2018,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.0076999999999999985,4600.0,35.419999999999995
+Croatia,2018,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.0076999999999999985,46400.0,357.2799999999999
+Croatia,2018,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.0076999999999999985,8600.0,66.21999999999998
+Croatia,2018,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.0076999999999999985,67900.0,522.8299999999999
+Croatia,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.00014629999999999998,24.0,0.0035111999999999995
+Croatia,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.00014629999999999998,7.0,0.0010240999999999998
+Croatia,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.00014629999999999998,27.0,0.0039501
+Croatia,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.00014629999999999998,60.0,0.008778
+Croatia,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.00018479999999999997,85.0,0.015707999999999996
+Croatia,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.00018479999999999997,95.0,0.017555999999999995
+Croatia,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,2.3099999999999996e-05,48.0,0.0011087999999999998
+Croatia,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,2.3099999999999996e-05,150.0,0.0034649999999999993
+Croatia,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.007345799999999999,20.0,0.14691599999999996
+Croatia,2018,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.007345799999999999,4000.0,29.383199999999995
+Croatia,2019,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.017100005,7500.0,128.25003750000002
+Croatia,2019,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.017100005,60700.0,1037.9703035
+Croatia,2019,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.017100005,4600.0,78.66002300000001
+Croatia,2019,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.017100005,46400.0,793.440232
+Croatia,2019,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.017100005,8600.0,147.060043
+Croatia,2019,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.017100005,67900.0,1161.0903395
+Croatia,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.00036818448265625,23.5,0.008652335342421874
+Croatia,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.00036818448265625,6.5,0.002393199137265625
+Croatia,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.00036818448265625,24.5,0.009020519825078125
+Croatia,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.00036818448265625,55.5,0.020434238787421875
+Croatia,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.00045101263187500006,81.0,0.036532023181875005
+Croatia,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.00045101263187500006,91.0,0.04104214950062501
+Croatia,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,6.572814421875e-05,48.0,0.0031549509225
+Croatia,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,6.572814421875e-05,147.5,0.009694901272265626
+Croatia,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.01621507974125,19.0,0.30808651508374996
+Croatia,2019,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.01621507974125,3950.0,64.0495649779375
+Croatia,2020,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.023699995,7500.0,177.7499625
+Croatia,2020,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.023699995,60700.0,1438.5896965000002
+Croatia,2020,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.023699995,4600.0,109.01997700000001
+Croatia,2020,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.023699995,46400.0,1099.679768
+Croatia,2020,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.023699995,8600.0,203.81995700000002
+Croatia,2020,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.023699995,67900.0,1609.2296605000001
+Croatia,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.0005702811296875001,23.0,0.013116465982812502
+Croatia,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.0005702811296875001,6.0,0.0034216867781250004
+Croatia,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.0005702811296875001,22.0,0.012546184853125001
+Croatia,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.0005702811296875001,51.0,0.029084337614062504
+Croatia,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.00068137485625,77.0,0.05246586393125
+Croatia,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.00068137485625,87.0,0.05927961249375
+Croatia,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0001110937265625,48.0,0.005332498875
+Croatia,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0001110937265625,145.0,0.0161085903515625
+Croatia,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.0223372452875,18.0,0.40207041517500003
+Croatia,2020,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.0223372452875,3900.0,87.11525662125001
+Croatia,2021,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.029800000000000007,7500.0,223.50000000000006
+Croatia,2021,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.029800000000000007,60700.0,1808.8600000000004
+Croatia,2021,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.029800000000000007,4600.0,137.08000000000004
+Croatia,2021,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.029800000000000007,46400.0,1382.7200000000003
+Croatia,2021,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.029800000000000007,8600.0,256.2800000000001
+Croatia,2021,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.029800000000000007,67900.0,2023.4200000000005
+Croatia,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.0007924937500000002,22.45,0.017791484687500005
+Croatia,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.0007924937500000002,5.85,0.004636088437500001
+Croatia,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.0007924937500000002,21.5,0.017038615625000003
+Croatia,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.0007924937500000002,49.9,0.039545438125000006
+Croatia,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.0009275250000000002,75.3,0.06984263250000002
+Croatia,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.0009275250000000002,85.3,0.07911788250000001
+Croatia,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.00016483125000000003,46.4,0.007648170000000001
+Croatia,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.00016483125000000003,143.5,0.023653284375000003
+Croatia,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.027915150000000007,17.3,0.4829320950000001
+Croatia,2021,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.027915150000000007,3860.0,107.75247900000002
+Croatia,2022,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.0837,7500.0,627.75
+Croatia,2022,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.0837,60700.0,5080.59
+Croatia,2022,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.0837,4600.0,385.02
+Croatia,2022,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.0837,46400.0,3883.68
+Croatia,2022,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.0837,8600.0,719.8199999999999
+Croatia,2022,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.0837,67900.0,5683.23
+Croatia,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.0024377624999999997,21.9,0.05338699874999999
+Croatia,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.0024377624999999997,5.7,0.013895246249999998
+Croatia,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.0024377624999999997,21.0,0.051193012499999996
+Croatia,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.0024377624999999997,48.8,0.11896280999999997
+Croatia,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.00280395,73.6,0.20637071999999998
+Croatia,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.00280395,83.6,0.23441021999999997
+Croatia,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0005335875,44.8,0.02390472
+Croatia,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0005335875,142.0,0.075769425
+Croatia,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.07792469999999999,16.6,1.2935500199999999
+Croatia,2022,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.07792469999999999,3820.0,297.6723539999999
+Croatia,2023,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.24050000000000002,7500.0,1803.7500000000002
+Croatia,2023,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.24050000000000002,60700.0,14598.35
+Croatia,2023,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.24050000000000002,4600.0,1106.3000000000002
+Croatia,2023,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.24050000000000002,46400.0,11159.2
+Croatia,2023,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.24050000000000002,8600.0,2068.3
+Croatia,2023,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.24050000000000002,67900.0,16329.95
+Croatia,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.007613328125,21.35,0.16254455546875002
+Croatia,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.007613328125,5.55,0.042253971093749995
+Croatia,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.007613328125,20.5,0.1560732265625
+Croatia,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.007613328125,47.7,0.3631557515625
+Croatia,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.008627937500000002,71.9,0.6203487062500002
+Croatia,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.008627937500000002,81.9,0.7066280812500002
+Croatia,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0017361093750000002,43.2,0.07499992500000001
+Croatia,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0017361093750000002,140.5,0.24392336718750005
+Croatia,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.22252262500000003,15.9,3.5381097375000006
+Croatia,2023,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.22252262500000003,3780.0,841.1355225000001
+Croatia,2024,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.4393,7500.0,3294.75
+Croatia,2024,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.4393,60700.0,26665.510000000002
+Croatia,2024,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.4393,4600.0,2020.7800000000002
+Croatia,2024,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.4393,46400.0,20383.52
+Croatia,2024,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.4393,8600.0,3777.98
+Croatia,2024,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.4393,67900.0,29828.47
+Croatia,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.015018568749999999,20.8,0.31238623
+Croatia,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.015018568749999999,5.4,0.08110027125
+Croatia,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.015018568749999999,20.0,0.300371375
+Croatia,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.015018568749999999,46.6,0.69986530375
+Croatia,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.016803225000000005,70.2,1.1795863950000003
+Croatia,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.016803225000000005,80.2,1.3476186450000005
+Croatia,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.00354185625,41.6,0.14734122000000002
+Croatia,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.00354185625,139.0,0.49231801875000003
+Croatia,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.40393635,15.2,6.13983252
+Croatia,2024,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.40393635,3740.0,1510.721949
+Croatia,2025,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.4170001,7500.0,3127.5007499999997
+Croatia,2025,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.4170001,60700.0,25311.906069999997
+Croatia,2025,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.4170001,4600.0,1918.20046
+Croatia,2025,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.4170001,46400.0,19348.80464
+Croatia,2025,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.4170001,8600.0,3586.20086
+Croatia,2025,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.4170001,67900.0,28314.30679
+Croatia,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.015311722421875,20.25,0.31006237904296874
+Croatia,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.015311722421875,5.25,0.08038654271484375
+Croatia,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.015311722421875,19.5,0.2985785872265625
+Croatia,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.015311722421875,45.5,0.6966833701953125
+Croatia,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.0169406290625,68.5,1.1604330907812501
+Croatia,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.0169406290625,78.5,1.3298393814062501
+Croatia,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.003713907140625,40.0,0.148556285625
+Croatia,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.003713907140625,137.5,0.5106622318359375
+Croatia,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.38103384137499996,14.5,5.5249906999375
+Croatia,2025,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.38103384137499996,3700.0,1409.8252130874998
+Croatia,2026,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.21263998000000006,7500.0,1594.7998500000006
+Croatia,2026,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.21263998000000006,60700.0,12907.246786000003
+Croatia,2026,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.21263998000000006,4600.0,978.1439080000002
+Croatia,2026,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.21263998000000006,46400.0,9866.495072000003
+Croatia,2026,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.21263998000000006,8600.0,1828.7038280000006
+Croatia,2026,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.21263998000000006,67900.0,14438.254642000004
+Croatia,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.008346119215000003,19.7,0.16441854853550006
+Croatia,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.008346119215000003,5.1,0.042565207996500015
+Croatia,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.008346119215000003,19.0,0.15857626508500006
+Croatia,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.008346119215000003,44.4,0.37056769314600013
+Croatia,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.009143519140000004,66.8,0.6107870785520002
+Croatia,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.009143519140000004,76.8,0.7022222699520003
+Croatia,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0020732398050000004,38.4,0.07961240851200001
+Croatia,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0020732398050000004,136.0,0.28196061348000007
+Croatia,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.19307710184000004,13.8,2.664464005392001
+Croatia,2026,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.19307710184000004,3660.0,706.6621927344002
+Croatia,2027,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.21263997999999984,7500.0,1594.7998499999987
+Croatia,2027,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.21263997999999984,60700.0,12907.24678599999
+Croatia,2027,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.21263997999999984,4600.0,978.1439079999992
+Croatia,2027,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.21263997999999984,46400.0,9866.495071999992
+Croatia,2027,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.21263997999999984,8600.0,1828.7038279999986
+Croatia,2027,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.21263997999999984,67900.0,14438.254641999989
+Croatia,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.008884364164374993,19.15,0.1701355737477811
+Croatia,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.008884364164374993,4.95,0.04397760261365622
+Croatia,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.008884364164374993,18.5,0.16436073704093737
+Croatia,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.008884364164374993,43.3,0.38469296831743716
+Croatia,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.009648539092499993,65.1,0.6281198949217495
+Croatia,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.009648539092499993,75.1,0.7246052858467494
+Croatia,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.002252654788124998,36.8,0.08289769620299993
+Croatia,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.002252654788124998,134.5,0.30298206900281227
+Croatia,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.19185442195499985,13.100000000000001,2.5132929276104985
+Croatia,2027,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.19185442195499985,3620.0,694.5130074770994
+Croatia,2028,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.21263998000000006,7500.0,1594.7998500000006
+Croatia,2028,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.21263998000000006,60700.0,12907.246786000003
+Croatia,2028,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.21263998000000006,4600.0,978.1439080000002
+Croatia,2028,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.21263998000000006,46400.0,9866.495072000003
+Croatia,2028,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.21263998000000006,8600.0,1828.7038280000006
+Croatia,2028,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.21263998000000006,67900.0,14438.254642000004
+Croatia,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.009422609113750004,18.6,0.1752605295157501
+Croatia,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.009422609113750004,4.8,0.04522852374600002
+Croatia,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.009422609113750004,18.0,0.1696069640475001
+Croatia,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.009422609113750004,42.2,0.3976341046002502
+Croatia,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.010153559045000003,63.4,0.6437356434530002
+Croatia,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.010153559045000003,73.4,0.7452712339030003
+Croatia,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0024320697712500007,35.2,0.08560885594800004
+Croatia,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0024320697712500007,133.0,0.3234652795762501
+Croatia,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.19063174207000005,12.4,2.363833601668001
+Croatia,2028,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.19063174207000005,3580.0,682.4616366106002
+Croatia,2029,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.21293998000000006,7500.0,1597.0498500000003
+Croatia,2029,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.21293998000000006,60700.0,12925.456786000004
+Croatia,2029,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.21293998000000006,4600.0,979.5239080000002
+Croatia,2029,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.21293998000000006,46400.0,9880.415072000003
+Croatia,2029,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.21293998000000006,8600.0,1831.2838280000005
+Croatia,2029,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.21293998000000006,67900.0,14458.624642000004
+Croatia,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.009974907188125003,18.05,0.18004707474565632
+Croatia,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.009974907188125003,4.65,0.046383318424781265
+Croatia,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.009974907188125003,17.5,0.17456087579218757
+Croatia,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.009974907188125003,41.1,0.40996868543193765
+Croatia,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.010673616497500003,61.7,0.6585621378957502
+Croatia,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.010673616497500003,71.7,0.7652983028707503
+Croatia,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.002615169129375001,33.6,0.08786968274700004
+Croatia,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.002615169129375001,131.5,0.3438947405128126
+Croatia,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.18967628718500004,11.7,2.2192125600645003
+Croatia,2029,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.18967628718500004,3540.0,671.4540566349001
+Croatia,2030,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.21263998000000006,7500.0,1594.7998500000006
+Croatia,2030,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.21263998000000006,60700.0,12907.246786000003
+Croatia,2030,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.21263998000000006,4600.0,978.1439080000002
+Croatia,2030,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.21263998000000006,46400.0,9866.495072000003
+Croatia,2030,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.21263998000000006,8600.0,1828.7038280000006
+Croatia,2030,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.21263998000000006,67900.0,14438.254642000004
+Croatia,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.010499099012500004,17.5,0.18373423271875008
+Croatia,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.010499099012500004,4.5,0.047245945556250016
+Croatia,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.010499099012500004,17.0,0.17848468321250008
+Croatia,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.010499099012500004,40.0,0.4199639605000002
+Croatia,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.011163598950000004,60.0,0.6698159370000003
+Croatia,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.011163598950000004,70.0,0.7814519265000003
+Croatia,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.002790899737500001,32.0,0.08930879160000003
+Croatia,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.002790899737500001,130.0,0.3628169658750001
+Croatia,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.18818638230000007,11.0,2.0700502053000007
+Croatia,2030,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.18818638230000007,3500.0,658.6523380500003
+Croatia,2031,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.24780000000000024,7500.0,1858.5000000000018
+Croatia,2031,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.24780000000000024,60700.0,15041.460000000015
+Croatia,2031,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.24780000000000024,4600.0,1139.880000000001
+Croatia,2031,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.24780000000000024,46400.0,11497.920000000011
+Croatia,2031,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.24780000000000024,8600.0,2131.080000000002
+Croatia,2031,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.24780000000000024,67900.0,16825.620000000017
+Croatia,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.012862368750000013,17.37,0.22341934518750023
+Croatia,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.012862368750000013,4.35,0.05595130406250005
+Croatia,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.012862368750000013,16.5,0.2122290843750002
+Croatia,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.012862368750000013,38.5,0.49520119687500047
+Croatia,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.013598025000000015,58.4,0.7941246600000009
+Croatia,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.013598025000000015,68.0,0.924665700000001
+Croatia,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.003461456250000003,31.2,0.10799743500000009
+Croatia,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.003461456250000003,129.0,0.44652785625000035
+Croatia,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.21787815000000021,10.5,2.2877205750000025
+Croatia,2031,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.21787815000000021,3500.0,762.5735250000007
+Croatia,2032,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.2514999999999998,7500.0,1886.2499999999984
+Croatia,2032,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.2514999999999998,60700.0,15266.049999999987
+Croatia,2032,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.2514999999999998,4600.0,1156.899999999999
+Croatia,2032,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.2514999999999998,46400.0,11669.59999999999
+Croatia,2032,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.2514999999999998,8600.0,2162.8999999999983
+Croatia,2032,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.2514999999999998,67900.0,17076.849999999984
+Croatia,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.013691031249999987,17.24,0.23603337874999974
+Croatia,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.013691031249999987,4.2,0.05750233124999995
+Croatia,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.013691031249999987,16.0,0.2190564999999998
+Croatia,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.013691031249999987,37.0,0.5065681562499995
+Croatia,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.014398374999999988,56.8,0.8178276999999993
+Croatia,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.014398374999999988,66.0,0.9502927499999991
+Croatia,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0037253437499999965,30.4,0.11325044999999989
+Croatia,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0037253437499999965,128.0,0.47684399999999955
+Croatia,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.2196852499999998,10.0,2.196852499999998
+Croatia,2032,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.2196852499999998,3500.0,768.8983749999993
+Croatia,2033,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.2627999999999998,7500.0,1970.9999999999986
+Croatia,2033,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.2627999999999998,60700.0,15951.959999999988
+Croatia,2033,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.2627999999999998,4600.0,1208.8799999999992
+Croatia,2033,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.2627999999999998,46400.0,12193.919999999991
+Croatia,2033,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.2627999999999998,8600.0,2260.0799999999986
+Croatia,2033,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.2627999999999998,67900.0,17844.119999999988
+Croatia,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.014971387499999989,17.11,0.2561604401249998
+Croatia,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.014971387499999989,4.05,0.06063411937499995
+Croatia,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.014971387499999989,15.5,0.23205650624999982
+Croatia,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.014971387499999989,35.5,0.5314842562499996
+Croatia,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.01566944999999999,55.2,0.8649536399999995
+Croatia,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.01566944999999999,64.0,1.0028447999999994
+Croatia,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.004114462499999997,29.6,0.12178808999999993
+Croatia,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.004114462499999997,127.0,0.5225367374999996
+Croatia,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.22804469999999985,9.5,2.1664246499999984
+Croatia,2033,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.22804469999999985,3500.0,798.1564499999995
+Croatia,2034,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.26180000000000025,7500.0,1963.5000000000018
+Croatia,2034,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.26180000000000025,60700.0,15891.260000000015
+Croatia,2034,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.26180000000000025,4600.0,1204.280000000001
+Croatia,2034,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.26180000000000025,46400.0,12147.520000000011
+Croatia,2034,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.26180000000000025,8600.0,2251.4800000000023
+Croatia,2034,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.26180000000000025,67900.0,17776.220000000016
+Croatia,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.015577100000000014,16.98,0.26449915800000023
+Croatia,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.015577100000000014,3.9,0.06075069000000005
+Croatia,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.015577100000000014,15.0,0.2336565000000002
+Croatia,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.015577100000000014,34.0,0.5296214000000005
+Croatia,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.016231600000000016,53.6,0.8700137600000009
+Croatia,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.016231600000000016,62.0,1.006359200000001
+Croatia,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0043197000000000044,28.8,0.12440736000000013
+Croatia,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0043197000000000044,126.0,0.5442822000000006
+Croatia,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.22567160000000022,9.0,2.031044400000002
+Croatia,2034,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.22567160000000022,3500.0,789.8506000000008
+Croatia,2035,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.2626000000000002,7500.0,1969.5000000000016
+Croatia,2035,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.2626000000000002,60700.0,15939.820000000014
+Croatia,2035,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.2626000000000002,4600.0,1207.960000000001
+Croatia,2035,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.2626000000000002,46400.0,12184.64000000001
+Croatia,2035,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.2626000000000002,8600.0,2258.360000000002
+Croatia,2035,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.2626000000000002,67900.0,17830.540000000015
+Croatia,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.016289406250000013,16.85,0.27447649531250023
+Croatia,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.016289406250000013,3.75,0.061085273437500046
+Croatia,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.016289406250000013,14.5,0.2361963906250002
+Croatia,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.016289406250000013,32.5,0.5294057031250005
+Croatia,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.016904875000000017,52.0,0.8790535000000009
+Croatia,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.016904875000000017,60.0,1.014292500000001
+Croatia,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.004554468750000004,28.0,0.1275251250000001
+Croatia,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.004554468750000004,125.0,0.5693085937500004
+Croatia,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.22485125000000017,8.5,1.9112356250000015
+Croatia,2035,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.22485125000000017,3500.0,786.9793750000006
+Croatia,2036,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.2557999999999998,7500.0,1918.4999999999986
+Croatia,2036,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.2557999999999998,60700.0,15527.059999999989
+Croatia,2036,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.2557999999999998,4600.0,1176.6799999999992
+Croatia,2036,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.2557999999999998,46400.0,11869.119999999992
+Croatia,2036,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.2557999999999998,8600.0,2199.8799999999983
+Croatia,2036,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.2557999999999998,67900.0,17368.819999999985
+Croatia,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.016515087499999987,16.72,0.27613226299999977
+Croatia,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.016515087499999987,3.6,0.05945431499999995
+Croatia,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.016515087499999987,14.0,0.23121122499999983
+Croatia,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.016515087499999987,31.0,0.5119677124999996
+Croatia,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.017074649999999986,50.4,0.8605623599999993
+Croatia,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.017074649999999986,58.0,0.9903296999999992
+Croatia,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.004652362499999996,27.2,0.1265442599999999
+Croatia,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.004652362499999996,124.0,0.5768929499999995
+Croatia,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.21755789999999983,8.0,1.7404631999999987
+Croatia,2036,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.21755789999999983,3500.0,761.4526499999994
+Croatia,2037,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.2519999999999998,7500.0,1889.9999999999984
+Croatia,2037,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.2519999999999998,60700.0,15296.399999999987
+Croatia,2037,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.2519999999999998,4600.0,1159.199999999999
+Croatia,2037,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.2519999999999998,46400.0,11692.79999999999
+Croatia,2037,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.2519999999999998,8600.0,2167.199999999998
+Croatia,2037,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.2519999999999998,67900.0,17110.799999999985
+Croatia,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.01690762499999999,16.59,0.2804974987499998
+Croatia,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.01690762499999999,3.45,0.058331306249999965
+Croatia,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.01690762499999999,13.5,0.22825293749999984
+Croatia,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.01690762499999999,29.5,0.4987749374999997
+Croatia,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.017419499999999987,48.8,0.8500715999999994
+Croatia,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.017419499999999987,56.0,0.9754919999999992
+Croatia,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0047958749999999955,26.4,0.12661109999999987
+Croatia,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0047958749999999955,123.0,0.5898926249999994
+Croatia,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.21287699999999982,7.5,1.5965774999999987
+Croatia,2037,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.21287699999999982,3500.0,745.0694999999994
+Croatia,2038,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.2554999999999998,7500.0,1916.2499999999984
+Croatia,2038,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.2554999999999998,60700.0,15508.849999999988
+Croatia,2038,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.2554999999999998,4600.0,1175.299999999999
+Croatia,2038,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.2554999999999998,46400.0,11855.19999999999
+Croatia,2038,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.2554999999999998,8600.0,2197.299999999998
+Croatia,2038,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.2554999999999998,67900.0,17348.449999999986
+Croatia,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.017789187499999987,16.46,0.2928100262499998
+Croatia,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.017789187499999987,3.3,0.058704318749999956
+Croatia,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.017789187499999987,13.0,0.23125943749999983
+Croatia,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.017789187499999987,28.0,0.49809724999999966
+Croatia,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.018268249999999986,47.2,0.8622613999999994
+Croatia,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.018268249999999986,54.0,0.9864854999999992
+Croatia,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.005078062499999996,25.6,0.1299983999999999
+Croatia,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.005078062499999996,122.0,0.6195236249999995
+Croatia,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.21436449999999982,7.0,1.5005514999999987
+Croatia,2038,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.21436449999999982,3500.0,750.2757499999993
+Croatia,2039,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.26490000499999977,7500.0,1986.7500374999984
+Croatia,2039,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.26490000499999977,60700.0,16079.430303499987
+Croatia,2039,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.26490000499999977,4600.0,1218.5400229999989
+Croatia,2039,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.26490000499999977,46400.0,12291.36023199999
+Croatia,2039,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.26490000499999977,8600.0,2278.140042999998
+Croatia,2039,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.26490000499999977,67900.0,17986.710339499983
+Croatia,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.019114190985781234,16.33,0.3121347387978075
+Croatia,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.019114190985781234,3.1500000000000004,0.06020970160521089
+Croatia,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.019114190985781234,12.5,0.23892738732226543
+Croatia,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.019114190985781234,26.5,0.5065260611232028
+Croatia,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.019569487869374985,45.6,0.8923686468434994
+Croatia,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.019569487869374985,52.0,1.0176133692074991
+Croatia,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.005488396978593745,24.8,0.13611224506912487
+Croatia,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.005488396978593745,121.0,0.6640960344098431
+Croatia,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.2207279291662498,6.5,1.4347315395806237
+Croatia,2039,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.2207279291662498,3500.0,772.5477520818744
+Croatia,2040,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.27149999500000066,7500.0,2036.249962500005
+Croatia,2040,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.27149999500000066,60700.0,16480.04969650004
+Croatia,2040,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.27149999500000066,4600.0,1248.899977000003
+Croatia,2040,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.27149999500000066,46400.0,12597.599768000031
+Croatia,2040,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.27149999500000066,8600.0,2334.8999570000055
+Croatia,2040,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.27149999500000066,67900.0,18434.849660500044
+Croatia,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.02027765587656255,16.2,0.3284980252003133
+Croatia,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.02027765587656255,3.0,0.06083296762968765
+Croatia,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.02027765587656255,12.0,0.2433318705187506
+Croatia,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.02027765587656255,25.0,0.5069413969140637
+Croatia,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.020701874618750053,44.0,0.9108824832250023
+Croatia,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.020701874618750053,50.0,1.0350937309375026
+Croatia,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.005854218642187514,24.0,0.14050124741250034
+Croatia,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.005854218642187514,120.0,0.7025062370625016
+Croatia,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.22466624586250056,6.0,1.3479974751750032
+Croatia,2040,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.22466624586250056,3500.0,786.3318605187519
+Croatia,2041,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.1208000000000002,7500.0,906.0000000000015
+Croatia,2041,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.1208000000000002,60700.0,7332.560000000012
+Croatia,2041,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.1208000000000002,4600.0,555.6800000000009
+Croatia,2041,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.1208000000000002,46400.0,5605.120000000009
+Croatia,2041,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.1208000000000002,8600.0,1038.8800000000017
+Croatia,2041,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.1208000000000002,67900.0,8202.320000000014
+Croatia,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.009328025000000016,16.08,0.14999464200000023
+Croatia,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.009328025000000016,2.95,0.027517673750000048
+Croatia,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.009328025000000016,11.8,0.11007069500000019
+Croatia,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.009328025000000016,24.5,0.22853661250000037
+Croatia,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.009497900000000016,43.1,0.4093594900000007
+Croatia,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.009497900000000016,49.0,0.4653971000000008
+Croatia,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.0027066750000000043,23.6,0.0638775300000001
+Croatia,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.0027066750000000043,119.0,0.3220943250000005
+Croatia,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.09926740000000016,5.9,0.585677660000001
+Croatia,2041,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.09926740000000016,3450.0,342.4725300000005
+Croatia,2042,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.1746999999999993,7500.0,1310.2499999999948
+Croatia,2042,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.1746999999999993,60700.0,10604.289999999957
+Croatia,2042,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.1746999999999993,4600.0,803.6199999999968
+Croatia,2042,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.1746999999999993,46400.0,8106.079999999967
+Croatia,2042,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.1746999999999993,8600.0,1502.419999999994
+Croatia,2042,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.1746999999999993,67900.0,11862.129999999952
+Croatia,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.013932324999999945,15.959999999999999,0.2223599069999991
+Croatia,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.013932324999999945,2.9,0.04040374249999984
+Croatia,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.013932324999999945,11.6,0.16161496999999936
+Croatia,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.013932324999999945,24.0,0.33437579999999867
+Croatia,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.014150699999999947,42.2,0.5971595399999978
+Croatia,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.014150699999999947,48.0,0.6792335999999974
+Croatia,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.004061774999999984,23.2,0.09423317999999961
+Croatia,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.004061774999999984,118.0,0.47928944999999806
+Croatia,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.14255519999999944,5.8,0.8268201599999967
+Croatia,2042,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.14255519999999944,3400.0,484.68767999999807
+Croatia,2043,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.33150000000000024,7500.0,2486.250000000002
+Croatia,2043,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.33150000000000024,60700.0,20122.050000000014
+Croatia,2043,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.33150000000000024,4600.0,1524.900000000001
+Croatia,2043,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.33150000000000024,46400.0,15381.600000000011
+Croatia,2043,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.33150000000000024,8600.0,2850.900000000002
+Croatia,2043,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.33150000000000024,67900.0,22508.850000000017
+Croatia,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.02727623437500002,15.84,0.43205555250000033
+Croatia,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.02727623437500002,2.85,0.07773726796875007
+Croatia,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.02727623437500002,11.4,0.31094907187500026
+Croatia,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.02727623437500002,23.5,0.6409915078125005
+Croatia,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.027638812500000023,41.3,1.1414829562500008
+Croatia,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.027638812500000023,47.0,1.299024187500001
+Croatia,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.007987078125000007,22.8,0.18210538125000017
+Croatia,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.007987078125000007,117.0,0.9344881406250007
+Croatia,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.2685978750000002,5.7,1.5310078875000013
+Croatia,2043,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.2685978750000002,3350.0,899.8028812500007
+Croatia,2044,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.5303000000000002,7500.0,3977.250000000002
+Croatia,2044,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.5303000000000002,60700.0,32189.210000000014
+Croatia,2044,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.5303000000000002,4600.0,2439.380000000001
+Croatia,2044,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.5303000000000002,46400.0,24605.92000000001
+Croatia,2044,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.5303000000000002,8600.0,4560.580000000002
+Croatia,2044,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.5303000000000002,67900.0,36007.37000000002
+Croatia,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.044976068750000014,15.719999999999999,0.7070238007500002
+Croatia,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.044976068750000014,2.8,0.12593299250000003
+Croatia,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.044976068750000014,11.2,0.5037319700000001
+Croatia,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.044976068750000014,23.0,1.0344495812500003
+Croatia,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.04547322500000003,40.4,1.837118290000001
+Croatia,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.04547322500000003,46.0,2.091768350000001
+Croatia,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.013224356250000005,22.4,0.2962255800000001
+Croatia,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.013224356250000005,116.0,1.5340253250000004
+Croatia,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.42662635000000015,5.6,2.3891075600000007
+Croatia,2044,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.42662635000000015,3300.0,1407.8669550000004
+Croatia,2045,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.5080000999999993,7500.0,3810.0007499999947
+Croatia,2045,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.5080000999999993,60700.0,30835.606069999958
+Croatia,2045,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.5080000999999993,4600.0,2336.8004599999967
+Croatia,2045,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.5080000999999993,46400.0,23571.204639999967
+Croatia,2045,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.5080000999999993,8600.0,4368.800859999994
+Croatia,2045,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.5080000999999993,67900.0,34493.20678999995
+Croatia,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.04437063373437494,15.6,0.6921818862562491
+Croatia,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.04437063373437494,2.75,0.12201924276953109
+Croatia,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.04437063373437494,11.0,0.48807697107812437
+Croatia,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.04437063373437494,22.5,0.9983392590234362
+Croatia,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.04476750881249994,39.5,1.7683165980937476
+Croatia,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.04476750881249994,45.0,2.0145378965624974
+Croatia,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.013096877578124982,22.0,0.2881313067187496
+Croatia,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.013096877578124982,115.0,1.5061409214843728
+Croatia,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.4057650798749995,5.5,2.2317079393124972
+Croatia,2045,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.4057650798749995,3250.0,1318.7365095937485
+Croatia,2046,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.30363998000000025,7500.0,2277.2998500000017
+Croatia,2046,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.30363998000000025,60700.0,18430.946786000015
+Croatia,2046,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.30363998000000025,4600.0,1396.743908000001
+Croatia,2046,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.30363998000000025,46400.0,14088.895072000012
+Croatia,2046,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.30363998000000025,8600.0,2611.3038280000023
+Croatia,2046,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.30363998000000025,67900.0,20617.154642000016
+Croatia,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.027289643202500026,15.48,0.4224436767747004
+Croatia,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.027289643202500026,2.7,0.07368203664675008
+Croatia,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.027289643202500026,10.8,0.2947281465870003
+Croatia,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.027289643202500026,22.0,0.6003721504550006
+Croatia,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.02747941819000002,38.6,1.0607055421340008
+Croatia,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.02747941819000002,44.0,1.209094400360001
+Croatia,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.008084414467500007,21.6,0.17462335249800018
+Croatia,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.008084414467500007,114.0,0.9216232492950008
+Croatia,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.24078650414000022,5.4,1.3002471223560013
+Croatia,2046,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.24078650414000022,3200.0,770.5168132480007
+Croatia,2047,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.30363998000000003,7500.0,2277.2998500000003
+Croatia,2047,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.30363998000000003,60700.0,18430.946786
+Croatia,2047,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.30363998000000003,4600.0,1396.7439080000001
+Croatia,2047,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.30363998000000003,46400.0,14088.895072000001
+Croatia,2047,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.30363998000000003,8600.0,2611.303828
+Croatia,2047,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.30363998000000003,67900.0,20617.154642
+Croatia,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.028058231901875005,15.36,0.43097444201280005
+Croatia,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.028058231901875005,2.65,0.07435431453996875
+Croatia,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.028058231901875005,10.6,0.297417258159875
+Croatia,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.028058231901875005,21.5,0.6032519858903126
+Croatia,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.028200563142500006,37.7,1.0631612304722504
+Croatia,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.028200563142500006,43.0,1.2126242151275002
+Croatia,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.008340610700625,21.2,0.17682094685325
+Croatia,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.008340610700625,113.0,0.9424890091706251
+Croatia,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.23904057425500003,5.3,1.2669150435515002
+Croatia,2047,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.23904057425500003,3150.0,752.9778089032501
+Croatia,2048,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.30363998000000025,7500.0,2277.2998500000017
+Croatia,2048,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.30363998000000025,60700.0,18430.946786000015
+Croatia,2048,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.30363998000000025,4600.0,1396.743908000001
+Croatia,2048,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.30363998000000025,46400.0,14088.895072000012
+Croatia,2048,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.30363998000000025,8600.0,2611.3038280000023
+Croatia,2048,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.30363998000000025,67900.0,20617.154642000016
+Croatia,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.028826820601250025,15.24,0.4393207459630504
+Croatia,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.028826820601250025,2.6,0.07494973356325006
+Croatia,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.028826820601250025,10.4,0.29979893425300025
+Croatia,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.028826820601250025,21.0,0.6053632326262506
+Croatia,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.028921708095000026,36.8,1.0643188578960008
+Croatia,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.028921708095000026,42.0,1.2147117399900011
+Croatia,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.008596806933750006,20.8,0.17881358422200014
+Croatia,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.008596806933750006,112.0,0.9628423765800007
+Croatia,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.23729464437000022,5.2,1.2339321507240013
+Croatia,2048,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.23729464437000022,3100.0,735.6133975470007
+Croatia,2049,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.30393997999999933,7500.0,2279.549849999995
+Croatia,2049,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.30393997999999933,60700.0,18449.15678599996
+Croatia,2049,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.30393997999999933,4600.0,1398.1239079999968
+Croatia,2049,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.30393997999999933,46400.0,14102.815071999968
+Croatia,2049,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.30393997999999933,8600.0,2613.883827999994
+Croatia,2049,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.30393997999999933,67900.0,20637.524641999953
+Croatia,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.029624649925624937,15.12,0.44792470687544905
+Croatia,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.029624649925624937,2.55,0.07554285731034359
+Croatia,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.029624649925624937,10.2,0.30217142924137436
+Croatia,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.029624649925624937,20.5,0.6073053234753112
+Croatia,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.02967214054749994,35.9,1.0652298456552478
+Croatia,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.02967214054749994,41.0,1.2165577624474975
+Croatia,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.00886175004187498,20.4,0.1807797008542496
+Croatia,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.00886175004187498,111.0,0.9836542546481228
+Croatia,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.2357814394849995,5.1,1.2024853413734973
+Croatia,2049,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.2357814394849995,3050.0,719.1333904292485
+Croatia,2050,Solar PV,Annual installation,Material inflow,Common,All PV,Al,0.30363998000000025,7500.0,2277.2998500000017
+Croatia,2050,Solar PV,Annual installation,Material inflow,Common,All PV,Concrete,0.30363998000000025,60700.0,18430.946786000015
+Croatia,2050,Solar PV,Annual installation,Material inflow,Common,All PV,Cu,0.30363998000000025,4600.0,1396.743908000001
+Croatia,2050,Solar PV,Annual installation,Material inflow,Common,All PV,Glass,0.30363998000000025,46400.0,14088.895072000012
+Croatia,2050,Solar PV,Annual installation,Material inflow,Common,All PV,Plastic,0.30363998000000025,8600.0,2611.3038280000023
+Croatia,2050,Solar PV,Annual installation,Material inflow,Common,All PV,Steel,0.30363998000000025,67900.0,20617.154642000016
+Croatia,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Cu,0.030363998000000027,15.0,0.45545997000000044
+Croatia,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Ga,0.030363998000000027,2.5,0.07590999500000006
+Croatia,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,In,0.030363998000000027,10.0,0.30363998000000025
+Croatia,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CIGS,Se,0.030363998000000027,20.0,0.6072799600000005
+Croatia,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Cd,0.030363998000000027,35.0,1.0627399300000009
+Croatia,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,CdTe,Te,0.030363998000000027,40.0,1.214559920000001
+Croatia,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Ge,0.009109199400000007,20.0,0.18218398800000013
+Croatia,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,a-Si,Si,0.009109199400000007,110.0,1.0020119340000009
+Croatia,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Ag,0.2338027846000002,5.0,1.169013923000001
+Croatia,2050,Solar PV,Annual installation,Material inflow,Subtechnology-specific,c-Si,Si,0.2338027846000002,3000.0,701.4083538000006

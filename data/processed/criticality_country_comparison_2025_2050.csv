@@ -1,0 +1,47 @@
+Technology,Material,Year,Austria,Croatia,Croatia_minus_Austria
+Solar PV,Ag,2025,2,2,0
+Solar PV,Ag,2050,2,2,0
+Solar PV,Al,2025,1,1,0
+Solar PV,Al,2050,1,1,0
+Solar PV,Cd,2025,1,1,0
+Solar PV,Cd,2050,1,1,0
+Solar PV,Cu,2025,1,1,0
+Solar PV,Cu,2050,1,1,0
+Solar PV,Ga,2025,1,1,0
+Solar PV,Ga,2050,2,2,0
+Solar PV,Ge,2025,2,1,-1
+Solar PV,Ge,2050,2,1,-1
+Solar PV,In,2025,2,1,-1
+Solar PV,In,2050,3,2,-1
+Solar PV,Se,2025,1,1,0
+Solar PV,Se,2050,1,1,0
+Solar PV,Si,2025,2,2,0
+Solar PV,Si,2050,3,3,0
+Solar PV,Te,2025,1,1,0
+Solar PV,Te,2050,1,1,0
+Wind,Al,2025,1,2,1
+Wind,Al,2050,1,2,1
+Wind,B,2025,3,4,1
+Wind,B,2050,3,4,1
+Wind,Cr,2025,3,3,0
+Wind,Cr,2050,3,3,0
+Wind,Cu,2025,1,2,1
+Wind,Cu,2050,1,2,1
+Wind,Dy,2025,3,4,1
+Wind,Dy,2050,3,4,1
+Wind,Fe,2025,1,2,1
+Wind,Fe,2050,1,2,1
+Wind,Mn,2025,1,2,1
+Wind,Mn,2050,1,2,1
+Wind,Mo,2025,1,2,1
+Wind,Mo,2050,1,2,1
+Wind,Nd,2025,3,4,1
+Wind,Nd,2050,4,5,1
+Wind,Ni,2025,2,3,1
+Wind,Ni,2050,2,3,1
+Wind,Pr,2025,2,3,1
+Wind,Pr,2050,3,4,1
+Wind,Tb,2025,3,4,1
+Wind,Tb,2050,3,4,1
+Wind,Zn,2025,1,2,1
+Wind,Zn,2050,1,2,1
